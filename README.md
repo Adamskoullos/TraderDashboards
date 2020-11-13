@@ -1,8 +1,12 @@
 # TraderDash
 
+### Project screen shots to be inserted here
+
 [Live link](#) Project in development, live link will be activated once deployed
 
 [User guide](#) Project in development, live link will be activated once deployed
+
+## Table of Contents: 
 
 TraderDash is a free analysis charting solution using real-time and end of day data for equity traders and investors.  
 It is designed to be used in conjunction with an execution platform and aims to provide an informational edge to users that can be be used inline with a traders existing strategy.
@@ -14,7 +18,6 @@ It is designed to be used in conjunction with an execution platform and aims to 
 3. Researching the technicals and fundamentals of specific stocks to potentially trade in line with the the above top down analysis
 4. Monitoring live market data: quickly being able to identify intraday sentiment, overall market direction, breaking news and economic events
 
-### Project screen shots to be inserted here
 
 ## User Profiles:
 
