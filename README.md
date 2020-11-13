@@ -1,1 +1,82 @@
 # TraderDash
+
+[Live link](#) Project in development, live link will be activated once deployed
+
+[User guide](#) Project in development, live link will be activated once deployed
+
+TraderDash is a free analysis charting solution using real-time and end of day data for equity traders and investors.  
+It is designed to be used in conjunction with an execution platform and aims to provide an informational edge to users that can be be used inline with a traders existing strategy.
+
+## TraderDash assists in four real world trading and investing processes:
+
+1. Pre-market multi-timeframe analysis of the major indexes to frame the market and create a bigger picture road map
+2. Digging deeper and identifying strong sectors in a strong market and weak sectors in a weak market
+3. Researching the technicals and fundamentals of specific stocks to potentially trade in line with the the above top down analysis
+4. Monitoring live market data: quickly being able to identify intraday sentiment, overall market direction, breaking news and economic events
+
+### Project screen shots to be inserted here
+
+## User Profiles:
+
+The majority of the below market participants will typically manage individual accounts and be classed as non-professionals with their brokers. 
+They will be largely discretional traders trading outright positions.
+The strategy styles will include a mix of trend and mean reversion plays across a range of time horizons from intra-day to quarterly and longer.     
+
+- **Investors managing a portfolio** focused on sector ETF's and/or stocks executing via stocks, futures, options or CFD's.
+  This participant will use technicals as more of a timing tool but also heavily lean on company fundamentals and have a view on the economic landscape with
+  a typical time horizon ranging from months to years.  
+
+- **Swing traders managing a portfolio style trading account** on sector ETF's and/or stocks. This participant will have a typical time horizon from days up to a month
+  and will lean on technicals as their primary decision making tool but also confirm their trade ideas with fundamental and economic research.
+
+- **Intra-Day traders** manging a trading account largely holding one positon at a time and ending each trading session flat.  
+  This participant rarely holds positions overnight and is active during the US open.  
+  This trader can operate within a range of time frames within the day timeframe from scalping 5-10 ticks/cent to trageting intra-day swings of multiple points. 
+  These intra-day swings can be either break out trending plays or ranging mean reversion plays.  This trader may execute via futures, CFD's or stocks.
+
+## Stakeholders and their business goals: 
+
+- To be completed
+
+
+# UX Design
+
+## User Stories
+
+### First Time Visitor Goals:
+    - fighjfg
+
+### Returning Visitor Goals:
+    - ksdkndn
+
+
+### Frequent User Goals:
+    - wesegirtfgn
+
+
+## Features and Functions to be included in the Project
+    - doirjgidr
+
+
+## Information Architecture
+
+### Home Page:
+    - jkdbndfnjb
+
+
+## Interactive Elements
+
+### Home Page:
+    - sjekfnjgk
+
+
+## Wireframes
+
+
+## Design
+
+
+## Project Management
+
+
+# Development Stage
