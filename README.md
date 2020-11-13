@@ -2,11 +2,18 @@
 
 ### Project screen shots to be inserted here
 
-[Live link](#) Project in development, live link will be activated once deployed
-
-[User guide](#) Project in development, live link will be activated once deployed
+[Live link](#) | [User guide](#) Project in development, live links will be activated once deployed
 
 ## Table of Contents: 
+- [Project Overview](#Project-Overview)
+- [UX Design](#UX-Design)
+- [Project Management](#Project-Management) Sprints & Milestones
+- [Development Stage](#Development-Stage) Bugs & Fixes, Credits, Testing
+- [Deployment](#Deployment)
+- [Technologies](#Technologies)
+
+
+# Project Overview
 
 TraderDash is a free analysis charting solution using real-time and end of day data for equity traders and investors.  
 It is designed to be used in conjunction with an execution platform and aims to provide an informational edge to users that can be be used inline with a traders existing strategy.
@@ -79,7 +86,29 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 ## Design
 
 
-## Project Management
+# Project Management
 
 
 # Development Stage
+
+## Bugs & Solutions
+
+##  HTML & CSS Testing
+
+## Testing User Stories
+
+## Device Testing
+
+## Browser Testing
+
+## Credits
+
+
+# Deployment
+
+# Technologies
+
+## Languages
+
+## Frameworks, Libraries & Programs
+
