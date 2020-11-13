@@ -186,3 +186,4 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 - Hover.css
 - CSS.Tricks
 
+[Back to the top](#TraderDash)
