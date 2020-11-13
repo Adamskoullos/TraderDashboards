@@ -1,9 +1,5 @@
 # TraderDash
 
-### Project screen shots to be inserted here
-
-[Live link](#) | [User guide](#) Project in development, live links will be activated once deployed
-
 ## Table of Contents: 
 - [Project Overview](#Project-Overview)
 - [UX Design](#UX-Design)
@@ -12,11 +8,15 @@
 - [Deployment](#Deployment)
 - [Technologies](#Technologies)
 
+### Project screen shots to be inserted here
+
+[Live link](#) | [User guide](#) Project in development, live links will be activated once deployed
 
 # Project Overview
 
 TraderDash is a free analysis charting solution using real-time and end of day data for equity traders and investors.  
-It is designed to be used in conjunction with an execution platform and aims to provide an informational edge to users that can be be used inline with a traders existing strategy.
+As a standalone product TraderDash can be used in conjunction with an execution platform.
+TraderDash provides an informational edge that can enhance a traders existing strategy.
 
 ## TraderDash assists in four real world trading and investing processes:
 
@@ -81,34 +81,108 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 
 
 ## Wireframes
+- [Link to wireframes](#) Link to be added
 
 
 ## Design
+- Color Scheme
 
+- Typography
+
+- Images
 
 # Project Management
+- Sprint 1
+    - Tasks
+        - Task 1
+    - Milestone
+
+- Sprint 2
+    - Tasks
+        - Task 1
+    - Milestone
+
+- Sprint 3
+    - Tasks
+        - Task 1
+    - Milestone
+
+- Sprint 4
+    - Tasks
+        - Task 1
+    - Milestone
 
 
 # Development Stage
 
-## Bugs & Solutions
+## Bugs & Solutions:
+- Bug
+    - Solution
+
+**insert code snippet here**
+- Bug
+    - Solution
+    
+**insert code snippet here**
 
 ##  HTML & CSS Testing
+- [ ] HTML code Tested 
+- [ ] CSS code Tested  
 
 ## Testing User Stories
 
+### First Time Visitor Goals:
+    - fighjfg
+
+### Returning Visitor Goals:
+    - ksdkndn
+
+
+### Frequent User Goals:
+    - wesegirtfgn
+
 ## Device Testing
+- [ ] The website works on all devices
 
 ## Browser Testing
+- [ ] The website works on Chrome, Firefox, Edge & Safari
 
 ## Credits
+- Code:
+    - djfbnd
+
+- Content:
+    - gueru
+
+- Media:
+
+
+- Acknowledgments:
 
 
 # Deployment
 
+## GitHub Pages
+
+## Forking
+
+## Local Clone
+
 # Technologies
 
 ## Languages
+- HMTL5
+- CSS3
 
 ## Frameworks, Libraries & Programs
+- GitHub
+- Git
+- GitPod
+- Balsamiq
+- Bootstrap v4.5
+- JQuery
+- Google Fonts
+- Font Awesome
+- Hover.css
+- CSS.Tricks
 
