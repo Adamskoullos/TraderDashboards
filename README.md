@@ -39,7 +39,7 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 - **Swing traders managing a portfolio style trading account** on sector ETF's and/or stocks. This participant will have a typical time horizon from days up to a month
   and will lean on technicals as their primary decision making tool but also confirm their trade ideas with fundamental and economic research.
 
-- **Intra-Day traders** manging a trading account largely holding one positon at a time and ending each trading session flat.  
+- **Intra-Day traders** managing a trading account largely holding one positon at a time and ending each trading session flat.  
   This participant rarely holds positions overnight and is active during the US open.  
   This trader can operate within a range of time frames within the day timeframe from scalping 5-10 ticks/cent to trageting intra-day swings of multiple points. 
   These intra-day swings can be either break out trending plays or ranging mean reversion plays.  This trader may execute via futures, CFD's or stocks.
