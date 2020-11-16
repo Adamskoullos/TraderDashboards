@@ -41,12 +41,25 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 
 - **Intra-Day traders** managing a trading account largely holding one positon at a time and ending each trading session flat.  
   This participant rarely holds positions overnight and is active during the US open.  
-  This trader can operate within a range of time frames within the day timeframe from scalping 5-10 ticks/cent to trageting intra-day swings of multiple points. 
+  This trader can operate within a range of time frames within the day timeframe from scalping 5-10 ticks/cent to targeting intra-day swings of multiple points. 
   These intra-day swings can be either break out trending plays or ranging mean reversion plays.  This trader may execute via futures, CFD's or stocks.
 
 ## Stakeholders and their business goals: 
 
-- To be completed
+- TraderDash owner:
+    - To get TraderDash out and being used by equity traders around the world
+    - To build a contact list of potential future customers and provide prospects easy access to contact the owner to discuss their own goals
+    - To promote professional trading processes and present market analysis tools in a more functional way
+    - To attract the interest of potential employers within the industry
+
+- Prospective clients:
+    - To custom TraderDash to fit their analysis style and methods
+    - To work with the developer to automate their trading strategy, create trade alerts, maybe connect to their broker account and execute, maybe even build a desktop app
+    - To create a proprietary analysis tool pulling in custom data and presenting it via a custom built a UI  
+
+- Potential employers:
+    - Brokers, trading platform and charting package providers would value having a developer on their team that also has a high level of experience in there industry and is able to
+      understand the practical nature and application of the development targets 
 
 
 # UX Design
@@ -54,7 +67,20 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 ## User Stories
 
 ### First Time Visitor Goals:
-    - fighjfg
+    - To understand what the website does and if I am interested within 10 seconds:
+        - To quickly and clearly absorb the hero section of the landing page and to understand that TraderDash is essentially a free charting analysis tool
+        - To then read the short introduction text (5 seconds) and understand the main purpose of the tool is to provide an informational edge to their trading
+        - To click on the short introduction video and get an overview of each dashboard
+
+    - To get access to the trading dashboards and see what all fuss is about quickly and with minimal clicks:
+        - Dashboards tab located within the nav bar provides a dropdown menu taking them to the dashboard that most interests them initially
+        - The nav bar is present at the top of every page so visitors quickly learn how to go directly from one dashboard to another and also to any other page directly
+
+    - To decide if TradeDash presents data in a way that provides value to their trading/investing operation and if they should bookmark a given dashboard:
+        - To test the functionality of the charts and undertake technical analysis Tasks
+        - To re-size the dashboards to fit their screen set-up and test how they can use multiple dashboards at a time
+        - To assess if the way the markets have been grouped and condensed provides a better use of screen real-estate than what they are already doing
+        - To identify if the data points are presented in a way that better promotes data chunking and the ability to absorb, interpret and act with confidence, making informed and timely decisions 
 
 ### Returning Visitor Goals:
     - ksdkndn
