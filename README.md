@@ -58,7 +58,7 @@ The strategy styles will include a mix of trend and mean reversion plays across 
     - To create a proprietary analysis tool pulling in custom data and presenting it via a custom built a UI  
 
 - Potential employers:
-    - Brokers, trading platform and charting package providers would value having a developer on their team that also has a high level of experience in there industry and is able to
+    - Brokers, trading and investment firms, trading platforms, charting package providers and financial news outlets would value having a developer on their team that also has a high level of experience in there industry and is able to
       understand the practical nature and application of the development targets 
 
 
@@ -67,7 +67,7 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 ## User Stories
 
 ### First Time Visitor Goals:
-- To understand what the website does and if they am interested within 10 seconds:
+- To understand what the website does and if they are interested within 10 seconds:
     - To quickly and clearly absorb the hero section of the landing page and to understand that TraderDash is essentially a free charting analysis tool
     - To then read the short introduction text (5 seconds) and understand the main purpose of the tool is to provide an informational edge to their trading
     - To click on the short introduction video and get an overview of each dashboard
@@ -87,11 +87,24 @@ The strategy styles will include a mix of trend and mean reversion plays across 
     - Does the Intrady-Dash give the trader greater awareness of overall market sentiment and keep the trader up to date with price sensitive news and economic events
 
 ### Returning Visitor Goals:
-    - ksdkndn
+- To subscribe and be the first to try new trading products as they are rolled out
+- To get in touch with the developer and discuss their own goals
+- To give TraderDash an ongoing test to see if they are able to develop a greater trading edge:
+    - To quickly access dashboards and begin their analysis process
+    - To egt familar with the Intraday-Dash and how to quickly interpret the information and how to also utilise the ecenomic and news feeds in their pre-market prep
 
 
 ### Frequent User Goals:
-    - wesegirtfgn
+- For TraderDash to become a core part of a traders daily operational processes
+    - To quickly set up their screens to utilise mutiple dashboards during the analysis and planning preparation
+    - To become consistent with their pre-market prep and giving context to the price action against the backdrop of the bigger picture 
+    - To become intricately familar with intermarket relatonships and when one market is stronger or weaker than normal, 
+      when one market is leading the pack and when markets are either directional or fighting aginst one another
+    - To be aware of the current overall market sentiment and whether it is a risk on session or risk off session and tracking what asset class funds are being put to work in
+    - To develop the skill of chunking a choice set of the above data points to create a holistic, 
+      real-time awareness that empowers a trader to take decisive action and seize the moment
+    - To add the informational edge from TraderDash to the traders existing price action strategy to increase win rate,
+      increase the size of winners thus improving their risk/reward ratio, ultimately improving the traders overall expectancy 
 
 
 ## Features and Functions to be included in the Project
