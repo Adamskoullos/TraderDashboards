@@ -67,7 +67,7 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 ## User Stories
 
 ### First Time Visitor Goals:
-- To understand what the website does and if I am interested within 10 seconds:
+- To understand what the website does and if they am interested within 10 seconds:
     - To quickly and clearly absorb the hero section of the landing page and to understand that TraderDash is essentially a free charting analysis tool
     - To then read the short introduction text (5 seconds) and understand the main purpose of the tool is to provide an informational edge to their trading
     - To click on the short introduction video and get an overview of each dashboard
@@ -81,6 +81,10 @@ The strategy styles will include a mix of trend and mean reversion plays across 
     - To re-size the dashboards to fit their screen set-up and test how they can use multiple dashboards at a time
     - To assess if the way the markets have been grouped and condensed provides a better use of screen real-estate than what they are already doing
     - To identify if the data points are presented in a way that better promotes data chunking and the ability to absorb, interpret and act with confidence, making informed and timely decisions 
+
+- Does TraderDash allow the trader to develop the building blocks of their trading edge, do they feel using the tool increases their edge in the market:
+    - Do the multi timeframe dashboards provide greater context to the way traders frame the market and identify significant levels to trade from and better prepare for the open
+    - Does the Intrady-Dash give the trader greater awareness of overall market sentiment and keep the trader up to date with price sensitive news and economic events
 
 ### Returning Visitor Goals:
     - ksdkndn
