@@ -67,20 +67,20 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 ## User Stories
 
 ### First Time Visitor Goals:
-    - To understand what the website does and if I am interested within 10 seconds:
-        - To quickly and clearly absorb the hero section of the landing page and to understand that TraderDash is essentially a free charting analysis tool
-        - To then read the short introduction text (5 seconds) and understand the main purpose of the tool is to provide an informational edge to their trading
-        - To click on the short introduction video and get an overview of each dashboard
+- To understand what the website does and if I am interested within 10 seconds:
+    - To quickly and clearly absorb the hero section of the landing page and to understand that TraderDash is essentially a free charting analysis tool
+    - To then read the short introduction text (5 seconds) and understand the main purpose of the tool is to provide an informational edge to their trading
+    - To click on the short introduction video and get an overview of each dashboard
 
-    - To get access to the trading dashboards and see what all fuss is about quickly and with minimal clicks:
-        - Dashboards tab located within the nav bar provides a dropdown menu taking them to the dashboard that most interests them initially
-        - The nav bar is present at the top of every page so visitors quickly learn how to go directly from one dashboard to another and also to any other page directly
+- To get access to the trading dashboards and see what all fuss is about quickly and with minimal clicks:
+    - Dashboards tab located within the nav bar provides a dropdown menu taking them to the dashboard that most interests them initially
+    - The nav bar is present at the top of every page so visitors quickly learn how to go directly from one dashboard to another and also to any other page directly
 
-    - To decide if TradeDash presents data in a way that provides value to their trading/investing operation and if they should bookmark a given dashboard:
-        - To test the functionality of the charts and undertake technical analysis Tasks
-        - To re-size the dashboards to fit their screen set-up and test how they can use multiple dashboards at a time
-        - To assess if the way the markets have been grouped and condensed provides a better use of screen real-estate than what they are already doing
-        - To identify if the data points are presented in a way that better promotes data chunking and the ability to absorb, interpret and act with confidence, making informed and timely decisions 
+- To decide if TradeDash presents data in a way that provides value to their trading/investing operation and if they should bookmark a given dashboard:
+    - To test the functionality of the charts and undertake technical analysis Tasks
+    - To re-size the dashboards to fit their screen set-up and test how they can use multiple dashboards at a time
+    - To assess if the way the markets have been grouped and condensed provides a better use of screen real-estate than what they are already doing
+    - To identify if the data points are presented in a way that better promotes data chunking and the ability to absorb, interpret and act with confidence, making informed and timely decisions 
 
 ### Returning Visitor Goals:
     - ksdkndn
