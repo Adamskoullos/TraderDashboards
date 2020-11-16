@@ -91,7 +91,7 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 - To get in touch with the developer and discuss their own goals
 - To give TraderDash an ongoing test to see if they are able to develop a greater trading edge:
     - To quickly access dashboards and begin their analysis process
-    - To egt familar with the Intraday-Dash and how to quickly interpret the information and how to also utilise the ecenomic and news feeds in their pre-market prep
+    - To get familar with the Intraday-Dash and how to quickly interpret the information and how to also utilise the ecenomic and news feeds in their pre-market prep
 
 
 ### Frequent User Goals:
@@ -108,17 +108,54 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 
 
 ## Features and Functions to be included in the Project
-    - doirjgidr
-
+- Subscribe modal pop up linked to mailchimp
+- Email form providing user details, message linked to mailchimp
+- Possibly add calendly schedule a call form on the contact page
+- CSS parallax hero image 
+- Subscribe button transition in when page loads
+- Charting widgets embedded from 3rd party sources
+- Live news feed widget from 3rd party news aggregator
+- Live economic calendar widget from 3rd party
+- Embedded videos presenting the functionality of the dashboards  
 
 ## Information Architecture
-
+- Nav Bar: Help Guide link to pdf
+- Home:
+    - Hero Image with headline attention grabber
+    - Leading down to the introduction section with text and embedded video
+    - Leading on to section with 4 embedded videos each one a short presentation of each dashboard
+    - Below that a testimonial carousel with a couple of rotating testimonials
+    - just before the footer a short text with a contact button taking the user to the contact page 
 ### Home Page:
     - jkdbndfnjb
 
 
 ## Interactive Elements
+- Main nav bar (top):
+    - Home (landing page)
+    - Dashboards drop down menu:
+        - Intraday-Dash
+        - Index-Dash
+        - Sector-Dash
+        - Stock-Dash
+    - Help Guide (link to live pdf)
+    - contact
+    - Subscribe
+- Home:
+    - Top nav bar taking the visitor directly to any other page and dashboard (opening in new tab)
+    - Nav bar tabs to have subtle hover effects clearly highlighting the active page
+    - Hero section to house the subscribe pop up modal.  The button to transition in from the left once the page has loaded in order
+      to demand the visitors attention 
+    - The introduction section has a video, click to watch. The video will transition in as the visitor scrolls to the section 
+    - below that the four videos, click to watch
+    - the section below that has the carousel which can be clicked to scroll with the scroll buttons having a hover effect
+    - The footer has the drop down dashboard menu so visitors can go straight to the dashboard of choice
 
+- Intraday-Dash:
+    - The navbar and footer are the same as the home page and for all pages
+    - The charts can be focused by zooming in and out by hovering over and using the scroll wheel
+    - The ecenomic calendar can be viewed per day, week, month and scrolling to view more items
+    - The news feed can be targeted by clicking on the different tabs (stocks, economy etc) 
 ### Home Page:
     - sjekfnjgk
 
