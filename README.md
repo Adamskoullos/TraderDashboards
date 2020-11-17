@@ -119,16 +119,29 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 - Embedded videos presenting the functionality of the dashboards  
 
 ## Information Architecture
-- Nav Bar: Help Guide link to pdf
+- Nav Bar: User Guide link to pdf
 - Home:
     - Hero Image with headline attention grabber
     - Leading down to the introduction section with text and embedded video
     - Leading on to section with 4 embedded videos each one a short presentation of each dashboard
     - Below that a testimonial carousel with a couple of rotating testimonials
     - just before the footer a short text with a contact button taking the user to the contact page 
-### Home Page:
-    - jkdbndfnjb
-
+- Intraday-Dash:
+    - Tickers showing the net change since previous close (Dollar index, Bitcoin, Gold, Brent, Ftse, Dax)
+    - 5 minute charts showing real-time price action for (Dollar index, WTI oil, Gold, S&P, Russell, Nasdaq)
+    - Live stream economic calendar showing US, UK and European price sentsitive releases
+    - Aggregated live news feed showing price sensitive events
+- Index-Dash:
+    - Daily end of day charts for Brent oil, Gold, S&P, Russell, Dow, Nasdaq including 50 and 20 day simple moving average indicators
+    - 15 minute derivative chart for each of the above showing 24 hour data including the equivalent 5 day moving average and the 20 period moving average 
+- Sector-Dash:
+    - The same chart set up as the Index-Dash but using the US sector ETF products
+- Stock-Dash:
+    - Daily chart with 50 and 20 day moving average coupled with a 15 mintue equivalent both of which have access to all the technical anaylsis tools and can be used to view any stock end-of-day data
+    - 15 minute that can be manually set to view the same stock in order to view the product with multi timframe perspective
+    - Product table that is used to sort and identify stocks for further analysis
+    - Company fundamental sheet showing financial data for a given stock
+    - Yahoo finance stock page iframe, providing the option to view latest news for a firm and dig deeper into the fundamentals 
 
 ## Interactive Elements
 - Main nav bar (top):
