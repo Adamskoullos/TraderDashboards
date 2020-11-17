@@ -91,7 +91,7 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 - To get in touch with the developer and discuss their own goals
 - To give TraderDash an ongoing test to see if they are able to develop a greater trading edge:
     - To quickly access dashboards and begin their analysis process
-    - To get familar with the Intraday-Dash and how to quickly interpret the information and how to also utilise the ecenomic and news feeds in their pre-market prep
+    - To get familar with the Intraday-Dash and how to quickly interpret the information and how to also utilise the economic and news feeds in their pre-market prep
 
 
 ### Frequent User Goals:
@@ -177,7 +177,7 @@ The strategy styles will include a mix of trend and mean reversion plays across 
     - Same as Index-Dash
 - Stock-Dash:
     - Same as Index-Dash + Tickers can be changed
-    - Product table can be manipulateed to sort for different factors to identify stocks to analyse
+    - Product table can be manipulated to sort for different factors to identify stocks to analyse
     - Yahoo finance can be used built into the page to further investigate a stock
 - Contact:
     - From any page the visitor can click on the contact tab within the top nav bar 
