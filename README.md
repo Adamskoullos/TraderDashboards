@@ -185,7 +185,11 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 
 
 ## Wireframes
-- [Link to wireframes](#) Link to be added
+- [Home Page Wireframes](https://drive.google.com/file/d/1Jn4S5cN2eFrukOsO2bPfAb-cy5xWjeHz/view?usp=sharing)
+- [Intraday-Dash Wireframes](https://drive.google.com/file/d/1aITAXgC1CGzhOjHkTlIV4zVKPf2yWTWu/view?usp=sharing)
+- [Index-Dash Wireframes](https://drive.google.com/file/d/1qR7FKHJLdTnKZOox4XdbleHD22O5mdA3/view?usp=sharing)
+- [Stock-Dash Wireframes](https://drive.google.com/file/d/1Hid1vOkov-bFQ9D_BHwu-NM6xGyvQt9m/view?usp=sharing)
+- [Contact Wireframe](https://drive.google.com/file/d/1JFBV0aoyAFV705kkztWESV4dcUmBBD93/view?usp=sharing)
 
 
 ## Design
