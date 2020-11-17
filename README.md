@@ -195,16 +195,16 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 
 ## Design
 - Color Scheme
-    The colour scheme is a work in motion because in order to maintain a 3-4 colour pallete I will need to work with the limiting factors of using 3rd party features.
-    Because the 3rd party features are being sourced through three different providers the challenge is to present them all as one, in a clean and uniformed design.
-    The final design may have a dark or light theme and the goal is to have two main contrasting colours using 2 futher main accent colours.  
+    - The colour scheme is a work in motion because in order to maintain a 3-4 colour pallete I will need to work with the limiting factors of using 3rd party features.
+      Because the 3rd party features are being sourced through three different providers the challenge is to present them all as one, in a clean and uniformed design.
+      The final design may have a dark or light theme and the goal is to have two main contrasting colours using 2 futher main accent colours.  
 
 - Typography
-    Again depending on which provider is mostly used for the 3rd party widgets the website typography will be set to best match this.
+    - Again depending on which provider is mostly used for the 3rd party widgets the website typography will be set to best match this.
 
 - Images
-    Due to the nature of the website there is not much real-estate for many images however a choice hero image will be used on the home page and potentially a further feature image on the contact page.
-    The images need to be in keeping so as to contrast nicely with the existing colour pallete.
+    - Due to the nature of the website there is not much real-estate for many images however a choice hero image will be used on the home page and potentially a further feature image on the contact page.
+      The images need to be in keeping so as to contrast nicely with the existing colour pallete.
 
 Overall with the design, a focus during development is to maintain a clean and subtle look as the website is jam packed with user features that could become too busy very quickly.
 
