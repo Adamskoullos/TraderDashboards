@@ -185,11 +185,17 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 
 
 ## Wireframes
-- [Home Page Wireframes](https://drive.google.com/file/d/1Jn4S5cN2eFrukOsO2bPfAb-cy5xWjeHz/view?usp=sharing)
-- [Intraday-Dash Wireframes](https://drive.google.com/file/d/1aITAXgC1CGzhOjHkTlIV4zVKPf2yWTWu/view?usp=sharing)
-- [Index-Dash Wireframes](https://drive.google.com/file/d/1qR7FKHJLdTnKZOox4XdbleHD22O5mdA3/view?usp=sharing)
-- [Stock-Dash Wireframes](https://drive.google.com/file/d/1Hid1vOkov-bFQ9D_BHwu-NM6xGyvQt9m/view?usp=sharing)
-- [Contact Wireframe](https://drive.google.com/file/d/1JFBV0aoyAFV705kkztWESV4dcUmBBD93/view?usp=sharing)
+- <a href="https://drive.google.com/file/d/1Jn4S5cN2eFrukOsO2bPfAb-cy5xWjeHz/view?usp=sharing" target="_blank">Home Page</a>
+- <a href="https://drive.google.com/file/d/1aITAXgC1CGzhOjHkTlIV4zVKPf2yWTWu/view?usp=sharing" target="_blank">Intraday-Dash</a>
+- <a href="https://drive.google.com/file/d/1qR7FKHJLdTnKZOox4XdbleHD22O5mdA3/view?usp=sharing" target="_blank">Index-Dash & Sector-Dash</a>
+- <a href="https://drive.google.com/file/d/1Hid1vOkov-bFQ9D_BHwu-NM6xGyvQt9m/view?usp=sharing" target="_blank">Stock-Dash</a>
+- <a href="https://drive.google.com/file/d/1JFBV0aoyAFV705kkztWESV4dcUmBBD93/view?usp=sharing" target="_blank">Contact Page</a>
+
+- [Home Page](https://drive.google.com/file/d/1Jn4S5cN2eFrukOsO2bPfAb-cy5xWjeHz/view?usp=sharing)
+- [Intraday-Dash](https://drive.google.com/file/d/1aITAXgC1CGzhOjHkTlIV4zVKPf2yWTWu/view?usp=sharing)
+- [Index-Dash & Sector-Dash](https://drive.google.com/file/d/1qR7FKHJLdTnKZOox4XdbleHD22O5mdA3/view?usp=sharing)
+- [Stock-Dash](https://drive.google.com/file/d/1Hid1vOkov-bFQ9D_BHwu-NM6xGyvQt9m/view?usp=sharing)
+- [Contact](https://drive.google.com/file/d/1JFBV0aoyAFV705kkztWESV4dcUmBBD93/view?usp=sharing)
 
 
 ## Design
