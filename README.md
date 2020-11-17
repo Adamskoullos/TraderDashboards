@@ -154,23 +154,34 @@ The strategy styles will include a mix of trend and mean reversion plays across 
     - Help Guide (link to live pdf)
     - contact
     - Subscribe
+- Nav bar (bottom):
+    - Dashboards drop down menu
+    - Contact tab to be taken directly to the contact page 
 - Home:
     - Top nav bar taking the visitor directly to any other page and dashboard (opening in new tab)
-    - Nav bar tabs to have subtle hover effects clearly highlighting the active page
+    - Nav bar tabs to have subtle hover effects and clearly highlight the active page
     - Hero section to house the subscribe pop up modal.  The button to transition in from the left once the page has loaded in order
       to demand the visitors attention 
     - The introduction section has a video, click to watch. The video will transition in as the visitor scrolls to the section 
     - below that the four videos, click to watch
     - the section below that has the carousel which can be clicked to scroll with the scroll buttons having a hover effect
     - The footer has the drop down dashboard menu so visitors can go straight to the dashboard of choice
-
 - Intraday-Dash:
     - The navbar and footer are the same as the home page and for all pages
     - The charts can be focused by zooming in and out by hovering over and using the scroll wheel
-    - The ecenomic calendar can be viewed per day, week, month and scrolling to view more items
+    - The economic calendar can be viewed per day or week and scrolling to view more items
     - The news feed can be targeted by clicking on the different tabs (stocks, economy etc) 
-### Home Page:
-    - sjekfnjgk
+- Index-Dash:
+    - Charts can be focused, indicators can be used, levels and trend lines can be used
+- Sector-Dash:
+    - Same as Index-Dash
+- Stock-Dash:
+    - Same as Index-Dash + Tickers can be changed
+    - Product table can be manipulateed to sort for different factors to identify stocks to analyse
+    - Yahoo finance can be used built into the page to further investigate a stock
+- Contact:
+    - From any page the visitor can click on the contact tab within the top nav bar 
+    - The visitor can either fill out the email form or schedule a call via the calendly iframe
 
 
 ## Wireframes
