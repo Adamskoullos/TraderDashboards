@@ -209,10 +209,20 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 Overall with the design, a focus during development is to maintain a clean and subtle look as the website is jam packed with user features that could become too busy very quickly.
 
 # Project Management
-- Sprint 1
-    - Tasks
+- Sprint 1 - Set-up and Template 
+    - Create the file structure
+    - Add boiler plate code to index.HTML including links to external files:
+        - Boostrap CDN
+        - Font Awesome
+        - Add JS links to the bottom of the body
+    - Link css stylesheet below Boostrap and Font awesome and add Google fonts to top of style.css file
+    - Set up style.css defaults
+        - uigdfbfgd 
+    - Create the top nav bar:
         - Task 1
-    - Milestone
+    - Adjust the top nav bar and create the footer
+        - dfubnd
+    - **Milestone 1:** To have the project set-up and have the common code in place to use across the website pages ready to begin work on page specific tasks 
 
 - Sprint 2
     - Tasks
