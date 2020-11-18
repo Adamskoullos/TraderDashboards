@@ -233,12 +233,40 @@ Overall with the design, a focus during development is to maintain a clean and s
     - [ ] Adjust active tab and file name for each page 
     - **Milestone 1:** To have the project set-up and have the common code in place to use across the website pages ready to begin work on page specific tasks 
 
-- Sprint 2
-    - Tasks
-        - Task 1
-    - Milestone
+- Sprint 2 - Create trading dashboards
+    - [ ] Index-Dash
+        - [ ] Build the Boostrap grid system to house the charting widgets allowing for mobile, tablet and deskptop layouts
+        - [ ] Add styling classes to the HTML and basic styling within style sheet
+        - [ ] Embed chart widgets
+        - [ ] Test the analysis functionality of the charting widgets and work with the variables until suitable
+            - Ability to zoom in and out of chart
+            - Ability to add trend lines and levels 
+        - [ ] Refine styling to allow for a clean and cohesive look and feel
+        - [ ] Validate HTML and CSS
+    - [ ] Sector-Dash
+        - [ ] Copy and paste from Index-Dash then add further rows to accomodate the US sector ETF's
+        - [ ] Swap the index products for the sector chart widgets
+        - [ ] Test the functionality of the chart widgets
+        - [ ] Make any refinements to the styling
+        - [ ] Validate HTML and CSS
+    - [ ] Stock-Dash
+        - [ ] Build the Boostrap grid system for the page adding styling classes in the process 
+        - [ ] Add basic styling to the page
+        - [ ] Add analasis widgets see what works together and try different options
+        - [ ] Once settled, refine the styling to bring the page together
+        - [ ] Validate HTML and CSS 
+    - [ ] Intraday-Dash
+        - [ ] Build the Bootstrap grid system for the page adding classes for screen sizes and for styling
+        - [ ] Add basic styling
+        - [ ] Add the Ticker widgets and test how they adjust for screen sizes, making adjustments as needed
+        - [ ] Add the chart widgets refining styling so they are cleanly spaced
+        - [ ] Add the economic calendar refining the grid size to best match the widget also setting the display to none for mobile devices
+        - [ ] Add the news feed widget
+        - [ ] Make any final styling refinements
+        - [ ] Validate HTML and CSS  
+    - **Milestone 2:** Trading dashboards complete and working correctly, the main purpose of the site for users has been achieved  
 
-- Sprint 3
+- Sprint 3 - 
     - Tasks
         - Task 1
     - Milestone
