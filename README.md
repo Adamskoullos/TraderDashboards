@@ -209,72 +209,72 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 Overall with the design, a focus during development is to maintain a clean and subtle look as the website is jam packed with user features that could become too busy very quickly.
 
 # Project Management
-- Sprint 1 - Set-up and Template 
-    - [ ] Create the file structure
-    - [ ] Add boiler plate code to index.HTML including links to external files:
-        - Boostrap CDN
-        - Font Awesome
-        - Add JS links to the bottom of the body
-    - [ ] Link css stylesheet below Boostrap and Font awesome and add Google fonts to top of style.css file
-    - [ ] Set up style.css defaults
-        - uigdfbfgd 
-    - [ ] Create the top nav bar:
-        - [ ] Build the structure including the drop down for the dashboards
-        - [ ] Add the before icon to the logo
-        - [ ] Style the nav bar so it works well for tablets and desktops
-        - [ ] Add the burger menu functionality for mobile devices
-        - [ ] Add and refine hover effects and active tab styling
-    - [ ] Adjust the top nav bar and create the footer
-        - Remove Contact, Guide, Subscribe
-        - move Dashboards to the right
-        - Add Copyright to the center
-    - [ ] Validate HMTL and CSS
-    - [ ] Add template to all pages
-    - [ ] Adjust active tab and file name for each page 
-    - **Milestone 1:** To have the project set-up and have the common code in place to use across the website pages ready to begin work on page specific tasks 
+## Sprint 1 - Set-up and Template 
+- [ ] Create the file structure
+- [ ] Add boiler plate code to index.HTML including links to external files:
+    - Boostrap CDN
+    - Font Awesome
+    - Add JS links to the bottom of the body
+- [ ] Link css stylesheet below Boostrap and Font awesome and add Google fonts to top of style.css file
+- [ ] Set up style.css defaults
+    - uigdfbfgd 
+- [ ] Create the top nav bar:
+    - [ ] Build the structure including the drop down for the dashboards
+    - [ ] Add the before icon to the logo
+    - [ ] Style the nav bar so it works well for tablets and desktops
+    - [ ] Add the burger menu functionality for mobile devices
+    - [ ] Add and refine hover effects and active tab styling
+- [ ] Adjust the top nav bar and create the footer
+    - Remove Contact, Guide, Subscribe
+    - move Dashboards to the right
+    - Add Copyright to the center
+- [ ] Validate HMTL and CSS
+- [ ] Add template to all pages
+- [ ] Adjust active tab and file name for each page 
+- **Milestone 1:** To have the project set-up and have the common code in place to use across the website pages ready to begin work on page specific tasks 
 
-- Sprint 2 - Create trading dashboards
-    - [ ] Index-Dash
-        - [ ] Build the Boostrap grid system to house the charting widgets allowing for mobile, tablet and deskptop layouts
-        - [ ] Add styling classes to the HTML and basic styling within style sheet
-        - [ ] Embed chart widgets
-        - [ ] Test the analysis functionality of the charting widgets and work with the variables until suitable
-            - Ability to zoom in and out of chart
-            - Ability to add trend lines and levels 
-        - [ ] Refine styling to allow for a clean and cohesive look and feel
-        - [ ] Validate HTML and CSS
-    - [ ] Sector-Dash
-        - [ ] Copy and paste from Index-Dash then add further rows to accomodate the US sector ETF's
-        - [ ] Swap the index products for the sector chart widgets
-        - [ ] Test the functionality of the chart widgets
-        - [ ] Make any refinements to the styling
-        - [ ] Validate HTML and CSS
-    - [ ] Stock-Dash
-        - [ ] Build the Boostrap grid system for the page adding styling classes in the process 
-        - [ ] Add basic styling to the page
-        - [ ] Add analasis widgets see what works together and try different options
-        - [ ] Once settled, refine the styling to bring the page together
-        - [ ] Validate HTML and CSS 
-    - [ ] Intraday-Dash
-        - [ ] Build the Bootstrap grid system for the page adding classes for screen sizes and for styling
-        - [ ] Add basic styling
-        - [ ] Add the Ticker widgets and test how they adjust for screen sizes, making adjustments as needed
-        - [ ] Add the chart widgets refining styling so they are cleanly spaced
-        - [ ] Add the economic calendar refining the grid size to best match the widget also setting the display to none for mobile devices
-        - [ ] Add the news feed widget
-        - [ ] Make any final styling refinements
-        - [ ] Validate HTML and CSS  
-    - **Milestone 2:** Trading dashboards complete and working correctly, the main purpose of the site for users has been achieved  
+## Sprint 2 - Create trading dashboards
+- [ ] Index-Dash
+    - [ ] Build the Boostrap grid system to house the charting widgets allowing for mobile, tablet and deskptop layouts
+    - [ ] Add styling classes to the HTML and basic styling within style sheet
+    - [ ] Embed chart widgets
+    - [ ] Test the analysis functionality of the charting widgets and work with the variables until suitable
+        - Ability to zoom in and out of chart
+        - Ability to add trend lines and levels 
+    - [ ] Refine styling to allow for a clean and cohesive look and feel
+    - [ ] Validate HTML and CSS
+- [ ] Sector-Dash
+    - [ ] Copy and paste from Index-Dash then add further rows to accomodate the US sector ETF's
+    - [ ] Swap the index products for the sector chart widgets
+    - [ ] Test the functionality of the chart widgets
+    - [ ] Make any refinements to the styling
+    - [ ] Validate HTML and CSS
+- [ ] Stock-Dash
+    - [ ] Build the Boostrap grid system for the page adding styling classes in the process 
+    - [ ] Add basic styling to the page
+    - [ ] Add analasis widgets see what works together and try different options
+    - [ ] Once settled, refine the styling to bring the page together
+    - [ ] Validate HTML and CSS 
+- [ ] Intraday-Dash
+    - [ ] Build the Bootstrap grid system for the page adding classes for screen sizes and for styling
+    - [ ] Add basic styling
+    - [ ] Add the Ticker widgets and test how they adjust for screen sizes, making adjustments as needed
+    - [ ] Add the chart widgets refining styling so they are cleanly spaced
+    - [ ] Add the economic calendar refining the grid size to best match the widget also setting the display to none for mobile devices
+    - [ ] Add the news feed widget
+    - [ ] Make any final styling refinements
+    - [ ] Validate HTML and CSS  
+- **Milestone 2:** Trading dashboards complete and working correctly, the main purpose of the site for users has been achieved  
 
-- Sprint 3 - 
-    - Tasks
-        - Task 1
-    - Milestone
+## Sprint 3 - 
+- Tasks
+    - Task 1
+- Milestone
 
-- Sprint 4
-    - Tasks
-        - Task 1
-    - Milestone
+## Sprint 4
+- Tasks
+    - Task 1
+- Milestone
 
 
 # Development Stage
