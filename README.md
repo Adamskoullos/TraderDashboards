@@ -220,6 +220,7 @@ Overall with the design, a focus during development is to maintain a clean and s
         - uigdfbfgd 
     - [ ] Create the top nav bar:
         - [ ] Build the structure including the drop down for the dashboards
+        - [ ] Add the before icon to the logo
         - [ ] Style the nav bar so it works well for tablets and desktops
         - [ ] Add the burger menu functionality for mobile devices
         - [ ] Add and refine hover effects and active tab styling
