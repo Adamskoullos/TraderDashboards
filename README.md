@@ -3,8 +3,7 @@
 ## Table of Contents: 
 - [Project Overview](#Project-Overview)
 - [UX Design](#UX-Design)
-- [Project Management](#Project-Management) Sprints & Milestones
-- [Development Stage](#Development-Stage) Bugs & Fixes, Credits, Testing
+- [Development Stage](#Development-Stage) Project Management, Bugs & Fixes, Credits, Testing
 - [Deployment](#Deployment)
 - [Technologies](#Technologies)
 
