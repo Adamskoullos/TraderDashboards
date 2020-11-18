@@ -208,8 +208,10 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 
 Overall with the design, a focus during development is to maintain a clean and subtle look as the website is jam packed with user features that could become too busy very quickly.
 
-# Project Management
-## Sprint 1 - Set-up and Template 
+# Development Stage
+
+## Project Management
+### Sprint 1 - Set-up and Template 
 - [ ] Create the file structure
 - [ ] Add boiler plate code to index.HTML including links to external files:
     - Boostrap CDN
@@ -233,7 +235,7 @@ Overall with the design, a focus during development is to maintain a clean and s
 - [ ] Adjust active tab and file name for each page 
 - **Milestone 1:** To have the project set-up and have the common code in place to use across the website pages ready to begin work on page specific tasks 
 
-## Sprint 2 - Create trading dashboards
+### Sprint 2 - Create trading dashboards
 - [ ] Index-Dash
     - [ ] Build the Boostrap grid system to house the charting widgets allowing for mobile, tablet and deskptop layouts
     - [ ] Add styling classes to the HTML and basic styling within style sheet
@@ -266,18 +268,17 @@ Overall with the design, a focus during development is to maintain a clean and s
     - [ ] Validate HTML and CSS  
 - **Milestone 2:** Trading dashboards complete and working correctly, the main purpose of the site for users has been achieved  
 
-## Sprint 3 - 
+### Sprint 3 - 
 - Tasks
     - Task 1
 - Milestone
 
-## Sprint 4
+### Sprint 4
 - Tasks
     - Task 1
 - Milestone
 
 
-# Development Stage
 
 ## Bugs & Solutions:
 - Bug
