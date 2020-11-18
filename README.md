@@ -210,18 +210,26 @@ Overall with the design, a focus during development is to maintain a clean and s
 
 # Project Management
 - Sprint 1 - Set-up and Template 
-    - Create the file structure
-    - Add boiler plate code to index.HTML including links to external files:
+    - [ ] Create the file structure
+    - [ ] Add boiler plate code to index.HTML including links to external files:
         - Boostrap CDN
         - Font Awesome
         - Add JS links to the bottom of the body
-    - Link css stylesheet below Boostrap and Font awesome and add Google fonts to top of style.css file
-    - Set up style.css defaults
+    - [ ] Link css stylesheet below Boostrap and Font awesome and add Google fonts to top of style.css file
+    - [ ] Set up style.css defaults
         - uigdfbfgd 
-    - Create the top nav bar:
-        - Task 1
-    - Adjust the top nav bar and create the footer
-        - dfubnd
+    - [ ] Create the top nav bar:
+        - [ ] Build the structure including the drop down for the dashboards
+        - [ ] Style the nav bar so it works well for tablets and desktops
+        - [ ] Add the burger menu functionality for mobile devices
+        - [ ] Add and refine hover effects and active tab styling
+    - [ ] Adjust the top nav bar and create the footer
+        - Remove Contact, Guide, Subscribe
+        - move Dashboards to the right
+        - Add Copyright to the center
+    - [ ] Validate HMTL and CSS
+    - [ ] Add template to all pages
+    - [ ] Adjust active tab and file name for each page 
     - **Milestone 1:** To have the project set-up and have the common code in place to use across the website pages ready to begin work on page specific tasks 
 
 - Sprint 2
