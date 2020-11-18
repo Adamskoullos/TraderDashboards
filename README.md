@@ -232,7 +232,8 @@ Overall with the design, a focus during development is to maintain a clean and s
     - Add Copyright to the center
 - [ ] Validate HMTL and CSS
 - [ ] Add template to all pages
-- [ ] Adjust active tab and file name for each page 
+- [ ] Adjust active tab and file name for each page
+- [ ] Make sure all 3rd party code is labelled with comments and any credits complete 
 - **Milestone 1:** To have the project set-up and have the common code in place to use across the website pages ready to begin work on page specific tasks 
 
 ### Sprint 2 - Create trading dashboards
@@ -265,17 +266,40 @@ Overall with the design, a focus during development is to maintain a clean and s
     - [ ] Add the economic calendar refining the grid size to best match the widget also setting the display to none for mobile devices
     - [ ] Add the news feed widget
     - [ ] Make any final styling refinements
-    - [ ] Validate HTML and CSS  
+    - [ ] Validate HTML and CSS
+    - [ ] Confirm all hmtl and css code is clearly organised with comments
+    - [ ] Make sure all 3rd party code is labelled with comments and any credits complete  
 - **Milestone 2:** Trading dashboards complete and working correctly, the main purpose of the site for users has been achieved  
 
-### Sprint 3 - 
-- Tasks
-    - Task 1
-- Milestone
+### Sprint 3 - Create content for Home & Contact page
+- [ ] Create User Guide pdf and save to google drive, get public link and add to user guide link in the top nav bar to open a new tab and test
+- [ ] Create home page videos:
+    - [ ] Introduction
+    - [ ] Intraday-Dash
+    - [ ] Index-Dash
+    - [ ] Sector-Dash
+    - [ ] Stock-Dash
+- [ ] Create YouTube account and upload videos
+- [ ] Obtain 3x testimonials from traders and create content for carousel
+- [ ] Identify Hero image and save
+- [ ] Identify cantact page image and save
+- **Milestone:** All content for home and contact page now prepared for website
 
-### Sprint 4
-- Tasks
-    - Task 1
+### Sprint 4 - Complete Home and Contact page adding aditional function to collect user details and provide the means for users to make contact 
+- [ ] Home Page
+    - [ ] Build the Boostrap grid to house all the content and Features
+    - [ ] Add basic classes to adjust layout for each screen size
+    - [ ] Add basic classes to make provisions for core styling
+    - [ ] Add basic styling to stylesheet
+    - [ ] Add the hero image, styling it to fit, adding css parallax effect and potentially adding an opaque layer
+    - [ ] Add Hero image heading, sub heading and style including positoning (allow space for subscribe button to come)
+    - [ ] Add text to introduction section, add introduction video
+    - [ ] Add the four videos to the dashboard videos section and refine style if needed
+    - [ ] Add the structure to the carousel section and add testimonials
+    - [ ] Add text to subscribe section and add subscribe modal button (modal form to be added later)
+    - [ ] Add bottom section text and add contact button (leading to the contact page) 
+- Contact Page
+    - 
 - Milestone
 
 
