@@ -286,7 +286,7 @@ Overall with the design, a focus during development is to maintain a clean and s
 - [ ] Identify cantact page image and save
 - **Milestone:** All content for home and contact page now prepared for website
 
-### Sprint 4 - Complete Home and Contact page adding aditional functions to collect user details and provide the means for users to make contact 
+### Sprint 4 - Complete Home and Contact page  
 - [ ] Home Page
     - [ ] Build the Boostrap grid to house all the content and Features
     - [ ] Add classes to adjust layout for each screen size
