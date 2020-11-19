@@ -28,7 +28,7 @@ html, body{
 
 /* The below code was found on stackoverflow 
 as a solution to get rid of the bootstrap blue on click 
-(https://stackoverflow.com/questions/54484241/on-click-background-color-for-bootstrap-dropdown) */
+(https://stackoverflow.com/a/54484583/14461213) */
 
 .dropdown-item:active {
 background-color: #515253;
@@ -52,3 +52,28 @@ background-color: #515253;
     right: 20px;
 }
 
+/******************************************* Index-Dash & Sector-Dash ********************/
+
+.chart{
+    min-height: 400px;
+    background-color: #474849;
+    margin: 5px;
+    display: inline-block;
+}
+
+.tradingview-widget-container{
+    width: 100%;
+    height: 100%;
+}
+
+/* Dolar Index charts */
+
+#tradingview_3a7ec{
+    width: 100%;
+    height: 100%;
+}
+
+#tradingview_756c0{
+    width: 100%;
+    height: 100%;
+}

@@ -48,6 +48,64 @@
     </div>
 </nav>
 <section>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-md daily-chart chart">
+                <!-- TradingView Widget BEGIN -->
+                <div class="tradingview-widget-container">
+                <div id="tradingview_3a7ec"></div>
+                <div class="tradingview-widget-copyright"></div>
+                <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+                <script type="text/javascript">
+                new TradingView.widget(
+                {
+                "autosize": true,
+                "symbol": "FX:USDOLLAR",
+                "interval": "D",
+                "timezone": "exchange",
+                "theme": "light",
+                "style": "1",
+                "locale": "en",
+                "toolbar_bg": "#f1f3f6",
+                "enable_publishing": false,
+                "hide_top_toolbar": false,
+                "save_image": false,
+                "container_id": "tradingview_3a7ec"
+                }
+                );
+                </script>
+                </div>
+                <!-- TradingView Widget END -->  
+            </div>
+            <div class="col-12 col-md 15-minute-chart chart">
+                <!-- TradingView Widget BEGIN -->
+                <div class="tradingview-widget-container">
+                <div id="tradingview_756c0"></div>
+                <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/FX-USDOLLAR/" rel="noopener" target="_blank"><span class="blue-text">USDOLLAR Chart</span></a> by TradingView</div>
+                <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+                <script type="text/javascript">
+                new TradingView.widget(
+                {
+                "autosize": true,
+                "symbol": "FX:USDOLLAR",
+                "interval": "15",
+                "timezone": "exchange",
+                "theme": "light",
+                "style": "1",
+                "locale": "en",
+                "toolbar_bg": "#f1f3f6",
+                "enable_publishing": false,
+                "hide_side_toolbar": false,
+                "save_image": false,
+                "container_id": "tradingview_756c0"
+                }
+                );
+                </script>
+                </div>
+                <!-- TradingView Widget END -->
+            </div>
+        </div>
+    </div>
 </section>
 <footer class="container-fluid">
     <nav class="navbar navbar-expand-sm navbar-dark colors-navbar">
