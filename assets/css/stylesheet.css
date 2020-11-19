@@ -18,9 +18,13 @@ html, body{
 }
 
 .dropdown-menu{
-    background-color: #474849; 
+    background-color: #474849;
+    color: #bebdbd;  
 }
 
+.dropdown-item{
+    color: #bebdbd;
+}
 /******************************************* Top Navbar ********************/
 
 
@@ -34,17 +38,4 @@ html, body{
     position: absolute;
     right: 20px;
 }
-
-/*
-.logo-icon::before{
-    content: url("../icons/title-icon.png");
-    display: inline;
-    background-color: #bebdbd; 
-    color: #bebdbd;
-    margin-right: 15px;
-    line-height: 5px;
-}
-*/
-
-
 

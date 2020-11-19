@@ -221,11 +221,11 @@ Overall with the design, a focus during development is to maintain a clean and s
 - [X] Link css stylesheet below Boostrap and Font awesome and add Google fonts to top of style.css file
 - [X] Set up stylesheet.css defaults
 - [ ] Create the top nav bar:
-    - [ ] Build the structure including the drop down for the dashboards
-    - [ ] Add the before icon to the logo
-    - [ ] Style the nav bar so it works well for tablets and desktops
-    - [ ] Add the burger menu functionality for mobile devices
-    - [ ] Add and refine hover effects and active tab styling
+    - [X] Build the structure including the drop down for the dashboards
+    - [X] Add the before icon to the logo (Did this with inline image instead)
+    - [X] Style the nav bar so it works well for tablets and desktops
+    - [X] Add the burger menu functionality for mobile devices
+    - [X] Add and refine hover effects and active tab styling
 - [ ] Adjust the top nav bar and create the footer
     - Remove Contact, Guide, Subscribe
     - move Dashboards to the right
