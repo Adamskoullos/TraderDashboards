@@ -226,11 +226,11 @@ Overall with the design, a focus during development is to maintain a clean and s
     - [X] Style the nav bar so it works well for tablets and desktops
     - [X] Add the burger menu functionality for mobile devices
     - [X] Add and refine hover effects and active tab styling
-- [ ] Adjust the top nav bar and create the footer
+- [X] Adjust the top nav bar and create the footer
     - Remove Contact, Guide, Subscribe
     - move Dashboards to the right
     - Add Copyright to the center
-- [ ] Validate HMTL and CSS
+- [X] Validate HMTL and CSS
 - [ ] Add template to all pages
 - [ ] Adjust active tab and file name for each page
 - [ ] Make sure all 3rd party code is labelled with comments and any credits complete 
