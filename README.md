@@ -219,8 +219,7 @@ Overall with the design, a focus during development is to maintain a clean and s
     - Add Title and description within head
     - Add icon to title browser tab
 - [X] Link css stylesheet below Boostrap and Font awesome and add Google fonts to top of style.css file
-- [ ] Set up style.css defaults
-    - uigdfbfgd 
+- [X] Set up style.css defaults
 - [ ] Create the top nav bar:
     - [ ] Build the structure including the drop down for the dashboards
     - [ ] Add the before icon to the logo
