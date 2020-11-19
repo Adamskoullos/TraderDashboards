@@ -326,7 +326,11 @@ Overall with the design, a focus during development is to maintain a clean and s
 
 ## Bugs & Solutions:
 - **Bug:** The justify-content-center bootstrap class is not centering the navbar ul
-    - [] Solution
+    - [X] **Solution** I ended up setting the navbar float: none and pos relative, 
+    then setting the navbar-nav to pos absolute, right 20px.  This worked well leaving the logo to the left and 
+    links to the right
+- **Bug:** The drop down menu links flash boostrap blue when clicked grrr
+    - [] **Solution**
 
 
 
