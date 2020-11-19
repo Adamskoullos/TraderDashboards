@@ -211,7 +211,7 @@ Overall with the design, a focus during development is to maintain a clean and s
 
 ## Project Management
 ### Sprint 1 - Set-up and Template 
-- [ ] Create the file structure
+- [X] Create the file structure
 - [ ] Add boiler plate code to index.HTML including links to external files:
     - Boostrap CDN
     - Font Awesome
