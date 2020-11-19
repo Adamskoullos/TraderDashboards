@@ -5,7 +5,19 @@ html, body{
     box-sizing: border-box;
     background-color: #474849;
     margin: 0;
-    padding: 5px;
+    padding: 0;
     color: #bebdbd;
     text-align: center;
 }
+
+/******************************************* Colors ********************/
+
+.colors-navbar{
+    color: #bebdbd;
+    background-color: #474849;
+}
+
+/******************************************* Top Navbar ********************/
+
+
+

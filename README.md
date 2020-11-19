@@ -219,7 +219,7 @@ Overall with the design, a focus during development is to maintain a clean and s
     - Add Title and description within head
     - Add icon to title browser tab
 - [X] Link css stylesheet below Boostrap and Font awesome and add Google fonts to top of style.css file
-- [X] Set up style.css defaults
+- [X] Set up stylesheet.css defaults
 - [ ] Create the top nav bar:
     - [ ] Build the structure including the drop down for the dashboards
     - [ ] Add the before icon to the logo
@@ -325,14 +325,10 @@ Overall with the design, a focus during development is to maintain a clean and s
 
 
 ## Bugs & Solutions:
-- Bug
-    - Solution
+- **Bug:** The justify-content-center bootstrap class is not centering the navbar ul
+    - [] Solution
 
-**insert code snippet here**
-- Bug
-    - Solution
-    
-**insert code snippet here**
+
 
 ##  HTML & CSS Testing
 - [ ] HTML code Tested 
