@@ -212,13 +212,13 @@ Overall with the design, a focus during development is to maintain a clean and s
 ## Project Management
 ### Sprint 1 - Set-up and Template 
 - [X] Create the file structure
-- [ ] Add boiler plate code to index.HTML including links to external files:
+- [X] Add boiler plate code to index.HTML including links to external files:
     - Boostrap CDN
     - Font Awesome
     - Add JS links to the bottom of the body
     - Add Title and description within head
     - Add icon to title browser tab
-- [ ] Link css stylesheet below Boostrap and Font awesome and add Google fonts to top of style.css file
+- [X] Link css stylesheet below Boostrap and Font awesome and add Google fonts to top of style.css file
 - [ ] Set up style.css defaults
     - uigdfbfgd 
 - [ ] Create the top nav bar:
