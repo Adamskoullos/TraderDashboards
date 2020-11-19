@@ -17,7 +17,34 @@ html, body{
     background-color: #474849;
 }
 
+.dropdown-menu{
+    background-color: #474849; 
+}
+
 /******************************************* Top Navbar ********************/
+
+
+/* Move ul to the right and keep logo to the left */
+.navbar{
+    float: none;
+    position: relative;
+}
+
+.navbar-nav{
+    position: absolute;
+    right: 20px;
+}
+
+/*
+.logo-icon::before{
+    content: url("../icons/title-icon.png");
+    display: inline;
+    background-color: #bebdbd; 
+    color: #bebdbd;
+    margin-right: 15px;
+    line-height: 5px;
+}
+*/
 
 
 
