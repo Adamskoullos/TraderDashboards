@@ -22,6 +22,10 @@ html, body{
     color: #bebdbd;  
 }
 
+.dropdown-item.active{
+    background-color: #333333;
+}
+
 .dropdown-item{
     color: #bebdbd;
 }
