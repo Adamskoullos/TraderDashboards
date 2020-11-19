@@ -216,6 +216,8 @@ Overall with the design, a focus during development is to maintain a clean and s
     - Boostrap CDN
     - Font Awesome
     - Add JS links to the bottom of the body
+    - Add Title and description within head
+    - Add icon to title browser tab
 - [ ] Link css stylesheet below Boostrap and Font awesome and add Google fonts to top of style.css file
 - [ ] Set up style.css defaults
     - uigdfbfgd 
@@ -284,11 +286,11 @@ Overall with the design, a focus during development is to maintain a clean and s
 - [ ] Identify cantact page image and save
 - **Milestone:** All content for home and contact page now prepared for website
 
-### Sprint 4 - Complete Home and Contact page adding aditional function to collect user details and provide the means for users to make contact 
+### Sprint 4 - Complete Home and Contact page adding aditional functions to collect user details and provide the means for users to make contact 
 - [ ] Home Page
     - [ ] Build the Boostrap grid to house all the content and Features
-    - [ ] Add basic classes to adjust layout for each screen size
-    - [ ] Add basic classes to make provisions for core styling
+    - [ ] Add classes to adjust layout for each screen size
+    - [ ] Add classes to make provisions for core styling
     - [ ] Add basic styling to stylesheet
     - [ ] Add the hero image, styling it to fit, adding css parallax effect and potentially adding an opaque layer
     - [ ] Add Hero image heading, sub heading and style including positoning (allow space for subscribe button to come)
@@ -297,10 +299,30 @@ Overall with the design, a focus during development is to maintain a clean and s
     - [ ] Add the structure to the carousel section and add testimonials
     - [ ] Add text to subscribe section and add subscribe modal button (modal form to be added later)
     - [ ] Add bottom section text and add contact button (leading to the contact page) 
-- Contact Page
-    - 
-- Milestone
+- [ ] Contact Page
+    - [ ] Build Bootstrap grid layout for page
+    - [ ] Add classes to adjust for srceen size
+    - [ ] Add style classes
+    - [ ] Add background image to top section adding an opaque layer to contrast with heading text
+    - [ ] Add heading and sub heading text to top section
+    - [ ] Style top section
+    - [ ] Add email/message form and style
+    - [ ] Add Calendly 'schedule a call' form and style
+    - [ ] Validate HTML and CSS
+    - [ ] Confirm all hmtl and css code is clearly organised with comments
+    - [ ] Make sure all 3rd party code is labelled with comments and any credits complete
+- **Milestone:** Home & Contact page content and structure in place  
 
+### Sprint 5 - Adding call-to-action functionality and element transitions
+- [ ] Home page hero section subscribe button to transition in from the left on page load
+- [ ] Contact section at the bottom of the home page to transition in from the bottom on scroll 
+- [ ] Work out how best to receive emails or at least collect contact details from visitors by leveraging a free 3rd party back end
+- [ ] Adding either mailchimp form to home page hero modal form section or the google sheets option (to be worked out at this time)
+- [ ] Add the same solution from the above to the email form on the contact page
+- [ ] Validate HTML and CSS
+- [ ] Confirm all hmtl and css code is clearly organised with comments
+- [ ] Make sure all 3rd party code is labelled with comments and any credits complete 
+- **Milestone:** Call-to-action elements functional and appear in front of the visitor in the natural flow of content
 
 
 ## Bugs & Solutions:
