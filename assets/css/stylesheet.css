@@ -26,6 +26,15 @@ html, body{
     background-color: #333333;
 }
 
+/* The below code was found on stackoverflow 
+as a solution to get rid of the bootstrap blue on click 
+(https://stackoverflow.com/questions/54484241/on-click-background-color-for-bootstrap-dropdown) */
+
+.dropdown-item:active {
+background-color: #515253;
+}
+/* code from here is my own */
+
 .dropdown-item{
     color: #bebdbd;
 }

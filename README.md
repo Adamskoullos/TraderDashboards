@@ -220,7 +220,7 @@ Overall with the design, a focus during development is to maintain a clean and s
     - Add icon to title browser tab
 - [X] Link css stylesheet below Boostrap and Font awesome and add Google fonts to top of style.css file
 - [X] Set up stylesheet.css defaults
-- [ ] Create the top nav bar:
+- [X] Create the top nav bar:
     - [X] Build the structure including the drop down for the dashboards
     - [X] Add the before icon to the logo (Did this with inline image instead)
     - [X] Style the nav bar so it works well for tablets and desktops
@@ -231,9 +231,9 @@ Overall with the design, a focus during development is to maintain a clean and s
     - move Dashboards to the right
     - Add Copyright to the center
 - [X] Validate HMTL and CSS
-- [ ] Add template to all pages
-- [ ] Adjust active tab and file name for each page
-- [ ] Make sure all 3rd party code is labelled with comments and any credits complete 
+- [X] Add template to all pages
+- [X] Adjust active tab and file name for each page
+- [X] Make sure all 3rd party code is labelled with comments and any credits complete 
 - **Milestone 1:** To have the project set-up and have the common code in place to use across the website pages ready to begin work on page specific tasks 
 
 ### Sprint 2 - Create trading dashboards
@@ -329,8 +329,8 @@ Overall with the design, a focus during development is to maintain a clean and s
     - [X] **Solution** I ended up setting the navbar float: none and pos relative, 
     then setting the navbar-nav to pos absolute, right 20px.  This worked well leaving the logo to the left and 
     links to the right
-- **Bug:** The drop down menu links flash boostrap blue when clicked grrr
-    - [] **Solution**
+- **Bug:** The drop down menu links (background) flash boostrap blue when clicked grrr
+    - [X] **Solution** Stackoverflow: .dropdown-item:active did the trick I could then pick any colour in the rainbow
 
 
 
