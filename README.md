@@ -237,21 +237,21 @@ Overall with the design, a focus during development is to maintain a clean and s
 - **Milestone 1:** To have the project set-up and have the common code in place to use across the website pages ready to begin work on page specific tasks 
 
 ### Sprint 2 - Create trading dashboards
-- [ ] Index-Dash
-    - [ ] Build the Boostrap grid system to house the charting widgets allowing for mobile, tablet and deskptop layouts
-    - [ ] Add styling classes to the HTML and basic styling within style sheet
-    - [ ] Embed chart widgets
-    - [ ] Test the analysis functionality of the charting widgets and work with the variables until suitable
+- [X] Index-Dash
+    - [X] Build the Boostrap grid system to house the charting widgets allowing for mobile, tablet and deskptop layouts
+    - [X] Add styling classes to the HTML and basic styling within style sheet
+    - [X] Embed chart widgets
+    - [X] Test the analysis functionality of the charting widgets and work with the variables until suitable
         - Ability to zoom in and out of chart
         - Ability to add trend lines and levels 
-    - [ ] Refine styling to allow for a clean and cohesive look and feel
-    - [ ] Validate HTML and CSS
-- [ ] Sector-Dash
-    - [ ] Copy and paste from Index-Dash then add further rows to accomodate the US sector ETF's
-    - [ ] Swap the index products for the sector chart widgets
-    - [ ] Test the functionality of the chart widgets
-    - [ ] Make any refinements to the styling
-    - [ ] Validate HTML and CSS
+    - [X] Refine styling to allow for a clean and cohesive look and feel
+    - [X] Validate HTML and CSS
+- [X] Sector-Dash
+    - [X] Copy and paste from Index-Dash then add further rows to accomodate the US sector ETF's
+    - [X] Swap the index products for the sector chart widgets
+    - [X] Test the functionality of the chart widgets
+    - [X] Make any refinements to the styling
+    - [X] Validate HTML and CSS
 - [ ] Stock-Dash
     - [ ] Build the Boostrap grid system for the page adding styling classes in the process 
     - [ ] Add basic styling to the page
