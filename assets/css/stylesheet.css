@@ -30,7 +30,7 @@ html, body{
 as a solution to get rid of the bootstrap blue on click 
 (https://stackoverflow.com/a/54484583/14461213) */
 
-.dropdown-item:active {
+.dropdown-item:active{
 background-color: #515253;
 }
 /* code from here is my own */
@@ -110,6 +110,18 @@ background-color: #515253;
 }
 
 #tradingview_6baf4{
+    width: 100%;
+    height: 100%;
+}
+
+/* Dow Jones charts */
+
+#tradingview_6bd7c{
+    width: 100%;
+    height: 100%;
+}
+
+#tradingview_21e45{
     width: 100%;
     height: 100%;
 }
