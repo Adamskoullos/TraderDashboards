@@ -40,8 +40,28 @@ background-color: #515253;
 }
 /******************************************* Top Navbar ********************/
 
+/* Fixed top nav bar and pushing content down */
+.nav-top{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
+
+.chart-container{
+    padding-top: 50px;
+}
+
+/* Dro down menu bug solution */
+
+.navbar-collapse
+.collapse{
+    display: block;
+}
 
 /* Move ul to the right and keep logo to the left */
+
 .navbar{
     float: none;
     position: relative;
@@ -52,6 +72,11 @@ background-color: #515253;
     right: 20px;
 }
 
+/******************************************* Footer ********************/
+
+footer{
+    margin-top: 10px;
+}
 /******************************************* Index-Dash & Sector-Dash ********************/
 
 .chart{

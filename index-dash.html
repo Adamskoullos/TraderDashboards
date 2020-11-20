@@ -14,40 +14,42 @@
     <link rel="stylesheet" href="assets/css/stylesheet.css">
 </head>
 <body>
-<nav class="navbar navbar-expand-md navbar-dark colors-navbar">
-    <a class="navbar-brand logo-icon" href="#"><img src="assets/icons/title-icon.png" alt="logo icon" width="24" height="24"> TraderDash</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>  
-    <div class="collapse navbar-collapse" id="navbarNavDropdown">
-        <ul class="navbar-nav"> 
-            <li class="nav-item">
-                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item dropdown active">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Dashboards
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                <a class="dropdown-item" href="intraday-dash.html">Intraday-Dash</a>
-                <a class="dropdown-item active" href="index-dash.html">Index-Dash</a>
-                <a class="dropdown-item" href="sector-dash.html">Sector-Dash</a>
-                <a class="dropdown-item" href="stock-dash.html">Stock-Dash</a>
-                </div>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">User Guide</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Subscribe</a>
-            </li>
-        </ul>
-    </div>
-</nav>
-<section>
+<div class="nav-top">
+    <nav class="navbar navbar-expand-md navbar-dark colors-navbar">
+        <a class="navbar-brand logo-icon" href="#"><img src="assets/icons/title-icon.png" alt="logo icon" width="24" height="24"> Index-Dash</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>  
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav"> 
+                <li class="nav-item">
+                    <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item dropdown active">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Dashboards
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <a class="dropdown-item" href="intraday-dash.html">Intraday-Dash</a>
+                    <a class="dropdown-item active" href="index-dash.html">Index-Dash</a>
+                    <a class="dropdown-item" href="sector-dash.html">Sector-Dash</a>
+                    <a class="dropdown-item" href="stock-dash.html">Stock-Dash</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">User Guide</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="contact.html">Contact</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Subscribe</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</div>
+<section class="chart-container">
 <!--analysis charts, each row contains one product including a daily chart and a 15 minute chart-->
     <div class="container-fluid">
         <div class="row">
@@ -391,7 +393,7 @@
                  <!-- TradingView Widget BEGIN -->
                 <div class="tradingview-widget-container">
                 <div id="tradingview_9ac06"></div>
-                <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-QQQ/" rel="noopener" target="_blank"><span class="blue-text">QQQ Chart</span></a> by TradingView</div>
+                <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-QQQ/" rel="noopener" target="_blank"><span class="blue-text"></span></a></div>
                 <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
                 <script type="text/javascript">
                 new TradingView.widget(
@@ -418,7 +420,7 @@
                 <!-- TradingView Widget BEGIN -->
                 <div class="tradingview-widget-container">
                 <div id="tradingview_c2bf6"></div>
-                <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/CURRENCYCOM-US100/" rel="noopener" target="_blank"><span class="blue-text">US100 Chart</span></a> by TradingView</div>
+                <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/CURRENCYCOM-US100/" rel="noopener" target="_blank"><span class="blue-text"></span></a></div>
                 <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
                 <script type="text/javascript">
                 new TradingView.widget(
@@ -445,27 +447,7 @@
     </div>
 </section>
 <footer class="container-fluid">
-    <nav class="navbar navbar-expand-sm navbar-dark colors-navbar">
-    <p>2021 Copyright: TraderDash.com</p>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>  
-    <div class="collapse navbar-collapse" id="navbarNavDropdown2">
-        <ul class="navbar-nav"> 
-            <li class="nav-item dropdown active">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Dashboards
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                <a class="dropdown-item" href="intraday-dash.html">Intraday-Dash</a>
-                <a class="dropdown-item active" href="index-dash.html">Index-Dash</a>
-                <a class="dropdown-item" href="sector-dash.html">Sector-Dash</a>
-                <a class="dropdown-item" href="stock-dash.html">Stock-Dash</a>
-                </div>
-            </li>
-        </ul>
-    </div>
-</nav>    
+    <div><p>2021 Copyright: TraderDash.com</p></div>
 </footer>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
