@@ -82,8 +82,10 @@ footer{
 .chart{
     min-height: 400px;
     background-color: #474849;
-    margin: 5px;
+    margin: 10px;
     display: inline-block;
+    background-color: #fff;
+    border-radius: 4px;
 }
 
 .tradingview-widget-container{
@@ -241,4 +243,28 @@ footer{
 #tradingview_3f7d3{
     width: 100%;
     height: 100%;
+}
+
+/*************************************** Stock-Dash *********************/
+.stock-chart{
+    min-height: 600px;
+    background-color: #474849;
+    margin: 10px;
+    display: inline-block;
+    background-color: #fff;
+    border-radius: 4px;
+}
+
+/* Any product chart */
+#tradingview_c91cb{
+    width: 100%;
+    height: 100%;
+}
+
+.screener{
+    margin: px;
+}
+
+.stock-dash-container{
+    padding-top: 5px;
 }
