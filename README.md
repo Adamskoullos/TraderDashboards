@@ -331,6 +331,9 @@ Overall with the design, a focus during development is to maintain a clean and s
     links to the right
 - **Bug:** The drop down menu links (background) flash boostrap blue when clicked grrr
     - [X] **Solution** Stackoverflow: .dropdown-item:active did the trick I could then pick any colour in the rainbow
+- **Bug:** On smaller screens when the menu is callapsed the content below pushes the drop down items menu away 
+    as soon as it appears preventing drop down items from being accessed
+    - [] **Solution** 
 
 
 
