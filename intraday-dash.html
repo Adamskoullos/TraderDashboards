@@ -50,7 +50,7 @@
     </nav>
 </div>
 <section class="chart-container container-fluid">
-    <!--****************** This row contains the tickers running along the top of the screen **********-->
+    <!-- This row contains the tickers running along the top of the screen -->
     <div class="row ticker-row">
         <div class="col-12 col-sm-6 col-lg-4 col-xl-2 tickers">
             <!-- TradingView Widget BEGIN -->
@@ -155,32 +155,36 @@
             <!-- TradingView Widget END -->
         </div>    
     </div>
-    <!--****************** This row contains the 6 mini charts **********-->
+    <!-- This row contains the first 3 mini charts -->
     <div class="row mini-chart-row">
-        <div class="col-12 col-sm-6 col-lg-4 mini-chart">
+        <div class="col-12 col-md mini-chart">
             <!-- TradingView Widget BEGIN -->
             <div class="tradingview-widget-container">
-            <div class="tradingview-widget-container__widget"></div>
-            <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/FX-USDOLLAR/" rel="noopener" target="_blank"><span class="blue-text"></span></a></div>
-            <script src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+            <div id="tradingview_703ed"></div>
+            <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/CURRENCYCOM-OIL_CRUDE/" rel="noopener" target="_blank"><span class="blue-text"></span></a></div>
+            <script src="https://s3.tradingview.com/tv.js"></script>
+            <script>
+            new TradingView.widget(
             {
-            "symbol": "FX:USDOLLAR",
-            "width": "100%",
-            "height": "100%",
-            "locale": "en",
-            "dateRange": "1D",
-            "colorTheme": "dark",
-            "trendLineColor": "rgba(0, 0, 0, 0.75)",
-            "underLineColor": "rgba(66, 66, 66, 0.25)",
-            "isTransparent": true,
             "autosize": true,
-            "largeChartUrl": ""
+            "symbol": "FX:USDOLLAR",
+            "interval": "5",
+            "timezone": "exchange",
+            "theme": "light",
+            "style": "1",
+            "locale": "en",
+            "toolbar_bg": "#f1f3f6",
+            "enable_publishing": false,
+            "hide_top_toolbar": true,
+            "save_image": false,
+            "container_id": "tradingview_703ed"
             }
+            );
             </script>
             </div>
             <!-- TradingView Widget END -->
         </div>
-        <div class="col-12 col-sm-6 col-lg-4 mini-chart">
+        <div class="col-12 col-md mini-chart">
             <!-- TradingView Widget BEGIN -->
             <div class="tradingview-widget-container">
             <div id="tradingview_630ab"></div>
@@ -201,6 +205,117 @@
             "hide_top_toolbar": true,
             "save_image": false,
             "container_id": "tradingview_630ab"
+            }
+            );
+            </script>
+            </div>
+            <!-- TradingView Widget END -->
+        </div>
+        <div class="col-12 col-md mini-chart">
+            <!-- TradingView Widget BEGIN -->
+            <div class="tradingview-widget-container">
+            <div id="tradingview_a170f"></div>
+            <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/CURRENCYCOM-OIL_CRUDE/" rel="noopener" target="_blank"><span class="blue-text"></span></a></div>
+            <script src="https://s3.tradingview.com/tv.js"></script>
+            <script>
+            new TradingView.widget(
+            {
+            "autosize": true,
+            "symbol": "OANDA:XAUUSD",
+            "interval": "5",
+            "timezone": "exchange",
+            "theme": "light",
+            "style": "1",
+            "locale": "en",
+            "toolbar_bg": "#f1f3f6",
+            "enable_publishing": false,
+            "hide_top_toolbar": true,
+            "save_image": false,
+            "container_id": "tradingview_a170f"
+            }
+            );
+            </script>
+            </div>
+            <!-- TradingView Widget END -->
+        </div>
+    </div>
+    <!-- This row contains the second 3 mini charts -->
+    <div class="row mini-chart-row">
+        <div class="col-12 col-md mini-chart">
+            <!-- TradingView Widget BEGIN -->
+            <div class="tradingview-widget-container">
+            <div id="tradingview_6827c"></div>
+            <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/CURRENCYCOM-OIL_CRUDE/" rel="noopener" target="_blank"><span class="blue-text"></span></a></div>
+            <script src="https://s3.tradingview.com/tv.js"></script>
+            <script>
+            new TradingView.widget(
+            {
+            "autosize": true,
+            "symbol": "OANDA:US2000USD",
+            "interval": "5",
+            "timezone": "exchange",
+            "theme": "light",
+            "style": "1",
+            "locale": "en",
+            "toolbar_bg": "#f1f3f6",
+            "enable_publishing": false,
+            "hide_top_toolbar": true,
+            "save_image": false,
+            "container_id": "tradingview_6827c"
+            }
+            );
+            </script>
+            </div>
+            <!-- TradingView Widget END -->
+        </div>
+        <div class="col-12 col-md mini-chart">
+            <!-- TradingView Widget BEGIN -->
+            <div class="tradingview-widget-container">
+            <div id="tradingview_d0687"></div>
+            <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/CURRENCYCOM-OIL_CRUDE/" rel="noopener" target="_blank"><span class="blue-text"></span></a></div>
+            <script src="https://s3.tradingview.com/tv.js"></script>
+            <script>
+            new TradingView.widget(
+            {
+            "autosize": true,
+            "symbol": "CURRENCYCOM:US500",
+            "interval": "5",
+            "timezone": "exchange",
+            "theme": "light",
+            "style": "1",
+            "locale": "en",
+            "toolbar_bg": "#f1f3f6",
+            "enable_publishing": false,
+            "hide_top_toolbar": true,
+            "save_image": false,
+            "container_id": "tradingview_d0687"
+            }
+            );
+            </script>
+            </div>
+            <!-- TradingView Widget END -->
+        </div>
+        <div class="col-12 col-md mini-chart">
+            <!-- TradingView Widget BEGIN -->
+            <div class="tradingview-widget-container">
+            <div id="tradingview_d2daf"></div>
+            <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/CURRENCYCOM-OIL_CRUDE/" rel="noopener" target="_blank"><span class="blue-text"></span></a></div>
+            <script src="https://s3.tradingview.com/tv.js"></script>
+            <script>
+            new TradingView.widget(
+            {
+            "autosize": true,
+            "symbol": "CURRENCYCOM:US100",
+            "interval": "5",
+            "timezone": "exchange",
+            "theme": "light",
+            "style": "1",
+            "locale": "en",
+            "toolbar_bg": "#f1f3f6",
+            "enable_publishing": false,
+            "hide_top_toolbar": true,
+            "save_image": false,
+            "container_id": "tradingview_d2daf"
             }
             );
             </script>

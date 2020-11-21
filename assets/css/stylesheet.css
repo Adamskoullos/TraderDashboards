@@ -288,7 +288,38 @@ footer{
     border-radius: 4px;
 }
 
+/* $ index */
+#tradingview_703ed{
+    width: 100%;
+    height: 100%;
+}
+
+/*Crude oil */
 #tradingview_630ab{
+    width: 100%;
+    height: 100%;
+}
+
+/* Gold */
+#tradingview_a170f{
+    width: 100%;
+    height: 100%;
+}
+
+/* Russell 2000 */
+#tradingview_6827c{
+    width: 100%;
+    height: 100%;
+}
+
+/* S&P 500 */
+#tradingview_d0687{
+    width: 100%;
+    height: 100%;
+}
+
+/* Nasdaq 100 */
+#tradingview_d2daf{
     width: 100%;
     height: 100%;
 }
