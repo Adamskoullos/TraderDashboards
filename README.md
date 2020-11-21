@@ -253,21 +253,21 @@ Overall with the design, a focus during development is to maintain a clean and s
     - [X] Make any refinements to the styling
     - [X] Validate HTML and CSS
 - [ ] Stock-Dash
-    - [ ] Build the Boostrap grid system for the page adding styling classes in the process 
-    - [ ] Add basic styling to the page
-    - [ ] Add analasis widgets see what works together and try different options
-    - [ ] Once settled, refine the styling to bring the page together
+    - [X] Build the Boostrap grid system for the page adding styling classes in the process 
+    - [X] Add basic styling to the page
+    - [X] Add analasis widgets see what works together and try different options
+    - [X] Once settled, refine the styling to bring the page together
     - [ ] Validate HTML and CSS 
 - [ ] Intraday-Dash
-    - [ ] Build the Bootstrap grid system for the page adding classes for screen sizes and for styling
-    - [ ] Add basic styling
-    - [ ] Add the Ticker widgets and test how they adjust for screen sizes, making adjustments as needed
-    - [ ] Add the chart widgets refining styling so they are cleanly spaced
-    - [ ] Add the economic calendar refining the grid size to best match the widget also setting the display to none for mobile devices
-    - [ ] Add the news feed widget
-    - [ ] Make any final styling refinements
-    - [ ] Validate HTML and CSS
-    - [ ] Confirm all hmtl and css code is clearly organised with comments
+    - [X] Build the Bootstrap grid system for the page adding classes for screen sizes and for styling
+    - [X] Add basic styling
+    - [X] Add the Ticker widgets and test how they adjust for screen sizes, making adjustments as needed
+    - [X] Add the chart widgets refining styling so they are cleanly spaced
+    - [X] Add the economic calendar refining the grid size to best match the widget also setting the display to none for mobile devices
+    - [X] Add the news feed widget
+    - [X] Make any final styling refinements
+    - [X] Validate HTML and CSS
+    - [X] Confirm all hmtl and css code is clearly organised with comments
     - [ ] Make sure all 3rd party code is labelled with comments and any credits complete  
 - **Milestone 2:** Trading dashboards complete and working correctly, the main purpose of the site for users has been achieved  
 
