@@ -50,7 +50,7 @@
     </nav>
 </div>
 <section class="chart-container container-fluid">
-    <!-- This row contains the tickers running along the top of the screen -->
+    <!-- This row contains the tickers running along the top of the screen ------------------->
     <div class="row ticker-row">
         <div class="col-12 col-sm-6 col-lg-4 col-xl-2 tickers">
             <!-- TradingView Widget BEGIN -->
@@ -155,7 +155,7 @@
             <!-- TradingView Widget END -->
         </div>    
     </div>
-    <!-- This row contains the first 3 mini charts -->
+    <!-- This row contains the first 3 mini charts ------------------------------------------->
     <div class="row mini-chart-row">
         <div class="col-12 col-md mini-chart">
             <!-- TradingView Widget BEGIN -->
@@ -239,7 +239,7 @@
             <!-- TradingView Widget END -->
         </div>
     </div>
-    <!-- This row contains the second 3 mini charts -->
+    <!-- This row contains the second 3 mini charts ------------------------------------------>
     <div class="row mini-chart-row">
         <div class="col-12 col-md mini-chart">
             <!-- TradingView Widget BEGIN -->
@@ -321,6 +321,15 @@
             </script>
             </div>
             <!-- TradingView Widget END -->
+        </div>
+    </div>
+    <!-- This row contains the economic calendar and news feed widgets ------------------------>
+    <div class="row econ-row">
+        <div class="col-12 col-lg econ-cal">
+            <script type="text/javascript">DukascopyApplet = {"type":"economic_calendar_new","params":{"showHeader":false,"tableBorderColor":"#e73e25","defaultTimezone":0,"defaultCountries":"c:GB,EU,US","impacts":[1,2],"dateTab":0,"dateFrom":1604188800000,"dateTo":1604707200000,"showColCountry":true,"showColCurrency":false,"showColImpact":true,"showColPrevious":true,"showColForecast":true,"width":"100%","height":"100%","adv":"popup","lang":"en"}};</script><script src="https://freeserv-static.dukascopy.com/2.0/core.js"></script>
+        </div>
+        <div class="col-12 col-lg news-feed">
+            <script type="text/javascript">DukascopyApplet = {"type":"online_news","params":{"header":false,"borders":false,"defaultLanguage":"en","availableLanguages":["en","fa","fr","he","hu","it","ja","ms","pl","pt","ro","ru","sk","sv","th","uk","zh"],"newsCategories":["finance","forex","stocks","company_news","commodities"],"width":"100%","height":"100%","adv":"popup"}};</script><script src="https://freeserv-static.dukascopy.com/2.0/core.js"></script>
         </div>
     </div>
 </section>
