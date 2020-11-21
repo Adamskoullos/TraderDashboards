@@ -261,9 +261,6 @@ footer{
     height: 100%;
 }
 
-.screener{
-    margin: px;
-}
 
 .stock-dash-container{
     padding-top: 5px;
@@ -284,7 +281,7 @@ footer{
 .mini-chart{
     min-height: 200px;
     background-color: #fff;
-    margin: 5px;
+    margin: 10px;
     border-radius: 4px;
 }
 
@@ -331,6 +328,6 @@ footer{
 .econ-cal,
 .news-feed{
     background-color: #fff;
-    margin: 5px;
+    margin: 10px;
     border-radius: 4px;
 }
