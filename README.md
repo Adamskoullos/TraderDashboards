@@ -9,7 +9,7 @@
 
 ### Project screen shots to be inserted here
 
-[Live link](#) | [User guide](https://drive.google.com/file/d/1Ln12hylrqkoI-hx5NzBe4zTPrj-qpbPx/view?usp=sharing) Project in development, live links will be activated once deployed
+[Live link](#) | [User guide](https://drive.google.com/file/d/1Ln12hylrqkoI-hx5NzBe4zTPrj-qpbPx/view?usp=sharing) User Guide is now a live link
 
 # Project Overview
 
@@ -272,7 +272,7 @@ Overall with the design, a focus during development is to maintain a clean and s
 - **Milestone 2:** Trading dashboards complete and working correctly, the main purpose of the site for users has been achieved  
 
 ### Sprint 3 - Create content for Home & Contact page
-- [ ] Create User Guide pdf and save to google drive, get public link and add to user guide link in the top nav bar to open a new tab and test
+- [X] Create User Guide pdf and save to google drive, get public link and add to user guide link in the top nav bar to open a new tab and test
 - [ ] Create home page videos:
     - [ ] Introduction
     - [ ] Intraday-Dash
@@ -331,8 +331,7 @@ Overall with the design, a focus during development is to maintain a clean and s
     links to the right
 - **Bug:** The drop down menu links (background) flash boostrap blue when clicked grrr
     - [X] **Solution** Stackoverflow: .dropdown-item:active did the trick I could then pick any colour in the rainbow
-- **Bug:** On smaller screens when the menu is callapsed the content below pushes the drop down items menu away 
-    as soon as it appears preventing drop down items from being accessed
+- **Bug:** collapsed menu li nav-items in the drop down menu do not cover the view port width 
     - [] **Solution** 
 
 
@@ -364,7 +363,8 @@ Overall with the design, a focus during development is to maintain a clean and s
     - djfbnd
 
 - Content:
-    - gueru
+    - The charting widgets and stock tickers are supplied by TradingView
+    - The economic calendar and news feed are supplied by Dukascopy
 
 - Media:
 
