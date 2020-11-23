@@ -268,7 +268,7 @@ Overall with the design, a focus during development is to maintain a clean and s
     - [X] Make any final styling refinements
     - [X] Validate HTML and CSS
     - [X] Confirm all hmtl and css code is clearly organised with comments
-    - [ ] Make sure all 3rd party code is labelled with comments and any credits complete  
+    - [X] Make sure all 3rd party code is labelled with comments and any credits complete  
 - **Milestone 2:** Trading dashboards complete and working correctly, the main purpose of the site for users has been achieved  
 
 ### Sprint 3 - Create content for Home & Contact page
