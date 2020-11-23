@@ -1,4 +1,4 @@
-# TraderDash
+# TraderDashboards
 
 ## Table of Contents: 
 - [Project Overview](#Project-Overview)
@@ -13,11 +13,11 @@
 
 # Project Overview
 
-TraderDash is a free analysis charting solution using real-time and end of day data for equity traders and investors.  
-As a standalone product TraderDash can be used in conjunction with an execution platform.
-TraderDash provides an informational edge that can enhance a traders existing strategy.
+TraderDashboards is a free analysis charting solution using real-time and end of day data for equity traders and investors.  
+As a standalone product TraderDashboards can be used in conjunction with an execution platform.
+TraderDashboards provides an informational edge that can enhance a traders existing strategy.
 
-## TraderDash assists in four real world trading and investing processes:
+## TraderDashboards assists in four real world trading and investing processes:
 
 1. Pre-market multi-timeframe analysis of the major indexes to frame the market and create a bigger picture road map
 2. Digging deeper and identifying strong sectors in a strong market and weak sectors in a weak market
@@ -45,14 +45,14 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 
 ## Stakeholders and their business goals: 
 
-- TraderDash owner:
-    - To get TraderDash out and being used by equity traders around the world
+- TraderDashboards owner:
+    - To get TraderDashboards out and being used by equity traders around the world
     - To build a contact list of potential future customers and provide prospects easy access to contact the owner to discuss their own goals
     - To promote professional trading processes and present market analysis tools in a more functional way
     - To attract the interest of potential employers within the industry
 
 - Prospective clients:
-    - To custom TraderDash to fit their analysis style and methods
+    - To custom TraderDashboards to fit their analysis style and methods
     - To work with the developer to automate their trading strategy, create trade alerts, maybe connect to their broker account and execute, maybe even build a desktop app
     - To create a proprietary analysis tool pulling in custom data and presenting it via a custom built a UI  
 
@@ -67,7 +67,7 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 
 ### First Time Visitor Goals:
 - To understand what the website does and if they are interested within 10 seconds:
-    - To quickly and clearly absorb the hero section of the landing page and to understand that TraderDash is essentially a free charting analysis tool
+    - To quickly and clearly absorb the hero section of the landing page and to understand that TraderDashboards is essentially a free charting analysis tool
     - To then read the short introduction text (5 seconds) and understand the main purpose of the tool is to provide an informational edge to their trading
     - To click on the short introduction video and get an overview of each dashboard
 
@@ -75,26 +75,26 @@ The strategy styles will include a mix of trend and mean reversion plays across 
     - Dashboards tab located within the nav bar provides a dropdown menu taking them to the dashboard that most interests them initially
     - The nav bar is present at the top of every page so visitors quickly learn how to go directly from one dashboard to another and also to any other page directly
 
-- To decide if TradeDash presents data in a way that provides value to their trading/investing operation and if they should bookmark a given dashboard:
+- To decide if TradeDashboards presents data in a way that provides value to their trading/investing operation and if they should bookmark a given dashboard:
     - To test the functionality of the charts and undertake technical analysis Tasks
     - To re-size the dashboards to fit their screen set-up and test how they can use multiple dashboards at a time
     - To assess if the way the markets have been grouped and condensed provides a better use of screen real-estate than what they are already doing
     - To identify if the data points are presented in a way that better promotes data chunking and the ability to absorb, interpret and act with confidence, making informed and timely decisions 
 
-- Does TraderDash allow the trader to develop the building blocks of their trading edge, do they feel using the tool increases their edge in the market:
+- Does TraderDashboards allow the trader to develop the building blocks of their trading edge, do they feel using the tool increases their edge in the market:
     - Do the multi timeframe dashboards provide greater context to the way traders frame the market and identify significant levels to trade from and better prepare for the open
     - Does the Intrady-Dash give the trader greater awareness of overall market sentiment and keep the trader up to date with price sensitive news and economic events
 
 ### Returning Visitor Goals:
 - To subscribe and be the first to try new trading products as they are rolled out
 - To get in touch with the developer and discuss their own goals
-- To give TraderDash an ongoing test to see if they are able to develop a greater trading edge:
+- To give TraderDashboards an ongoing test to see if they are able to develop a greater trading edge:
     - To quickly access dashboards and begin their analysis process
     - To get familar with the Intraday-Dash and how to quickly interpret the information and how to also utilise the economic and news feeds in their pre-market prep
 
 
 ### Frequent User Goals:
-- For TraderDash to become a core part of a traders daily operational processes
+- For TraderDashboards to become a core part of a traders daily operational processes
     - To quickly set up their screens to utilise mutiple dashboards during the analysis and planning preparation
     - To become consistent with their pre-market prep and giving context to the price action against the backdrop of the bigger picture 
     - To become intricately familar with intermarket relatonships and when one market is stronger or weaker than normal, 
@@ -102,7 +102,7 @@ The strategy styles will include a mix of trend and mean reversion plays across 
     - To be aware of the current overall market sentiment and whether it is a risk on session or risk off session and tracking what asset class funds are being put to work in
     - To develop the skill of chunking a choice set of the above data points to create a holistic, 
       real-time awareness that empowers a trader to take decisive action and seize the moment
-    - To add the informational edge from TraderDash to the traders existing price action strategy to increase win rate,
+    - To add the informational edge from TraderDashboards to the traders existing price action strategy to increase win rate,
       increase the size of winners thus improving their risk/reward ratio, ultimately improving the traders overall expectancy 
 
 
@@ -398,4 +398,4 @@ Overall with the design, a focus during development is to maintain a clean and s
 - Hover.css
 - CSS.Tricks
 
-[Back to the top](#TraderDash)
+[Back to the top](#TraderDashboards)
