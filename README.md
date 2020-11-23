@@ -9,7 +9,7 @@
 
 ### Project screen shots to be inserted here
 
-[Live link](#) | [User guide](#) Project in development, live links will be activated once deployed
+[Live link](#) | [User guide](https://drive.google.com/file/d/1Ln12hylrqkoI-hx5NzBe4zTPrj-qpbPx/view?usp=sharing) Project in development, live links will be activated once deployed
 
 # Project Overview
 
