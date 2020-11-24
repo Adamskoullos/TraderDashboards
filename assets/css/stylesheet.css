@@ -4,7 +4,7 @@ html, body{
     font-family: 'roboto', sans-serif;
     box-sizing: border-box;
     background-color: #474849;
-    margin: 5px;
+    margin: 0;
     padding: 0;
     color: #bebdbd;
     text-align: center;
@@ -74,6 +74,20 @@ background-color: #515253;
 footer{
     margin-top: 10px;
 }
+
+/************************************ Home ******************************/
+
+.container-fluid{
+    padding: 0;
+}
+
+.hero-bg{
+    background: url("../images/hero.jpg") center center;
+    height: 400px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
 /******************************************* Index-Dash & Sector-Dash ********************/
 
 .chart{
@@ -328,3 +342,4 @@ footer{
     margin: 10px;
     border-radius: 4px;
 }
+
