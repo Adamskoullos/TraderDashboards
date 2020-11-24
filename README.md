@@ -332,7 +332,7 @@ Overall with the design, a focus during development is to maintain a clean and s
 - **Bug:** The drop down menu links (background) flash boostrap blue when clicked grrr
     - [X] **Solution** Stackoverflow: .dropdown-item:active did the trick I could then pick any colour in the rainbow
 - **Bug:** collapsed menu li nav-items in the drop down menu do not cover the view port width 
-    - [] **Solution** 
+    - [X] **Solution** I had altered the styling when floating the ul to the right, After undoing these changes the collapsed menu worked again.
 
 
 
