@@ -65,6 +65,10 @@ background-color: #515253;
     font-size: 1.3rem;
 }
 
+.navbar-expand-md .navbar-collapse{
+    justify-content: end;
+}
+
 /******************************************* Footer ********************/
 
 footer{
