@@ -73,9 +73,11 @@ background-color: #515253;
 
 footer{
     margin-top: 10px;
-    z-index: 1000;
 }
 
+.home-footer{
+    position: relative;
+}
 /************************************ Home ******************************/
 
 /**** Carousel ****/
@@ -223,7 +225,11 @@ footer{
 }
 /**** End of 3rd party code ****/
 
+/************************************************** Testimonial ************/
 
+.testimonial{
+    position: relative;
+}
 
 /******************************************* Index-Dash & Sector-Dash ********************/
 
