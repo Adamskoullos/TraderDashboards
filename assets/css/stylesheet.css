@@ -109,11 +109,46 @@ footer{
 }
 
 
+.main-heading-1{
+    position: absolute;
+    top: 75px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    color: #fff;
+    font-family: 'Roboto';
+    font-weight: 200;
+}
+
+.main-heading-3{
+     position: absolute;
+    top: 75px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    color: #fff;
+    font-family: 'Roboto';
+    font-weight: 200;
+}
+
+.sub-heading-1{
+    position: absolute;
+    bottom: 60px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    color: #fff;
+    font-family: 'Roboto';
+    font-weight: 300; 
+
+}
+
+
+
 /******************************************* Index-Dash & Sector-Dash ********************/
 
 .chart{
     min-height: 400px;
-    background-color: #474849;
     margin: 10px;
     display: inline-block;
     background-color: #fff;
