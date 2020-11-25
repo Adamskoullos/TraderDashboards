@@ -362,8 +362,8 @@ Overall with the design, a focus during development is to maintain a clean and s
 
 ## Credits
 - Code:
-    - djfbnd
-
+    - Rachel McCollin for this article:https://www.smashingmagazine.com/2014/02/making-embedded-content-work-in-responsive-design/
+    - Stackoverflow for code working with YouTube iframe: https://stackoverflow.com/questions/21054426/scaling-iframes-for-responsive-design-css-only?rq=1 
 - Content:
     - The charting widgets and stock tickers are supplied by TradingView
     - The economic calendar and news feed are supplied by Dukascopy

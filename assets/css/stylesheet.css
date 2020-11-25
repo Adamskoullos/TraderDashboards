@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 
 html, body{
-    font-family: 'roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
     background-color: #474849;
     margin: 0;
@@ -50,7 +50,7 @@ background-color: #515253;
     top: 0;
     left: 0;
     right: 0;
-    z-index: 1;
+    z-index: 2;
 }
 
 .chart-container{
@@ -73,11 +73,16 @@ background-color: #515253;
 
 footer{
     margin-top: 10px;
+    z-index: 1000;
 }
 
 /************************************ Home ******************************/
 
 /**** Carousel ****/
+
+.hero-container{
+    margin-top: 50px;
+}
 
 .carousel-inner{
     height: 400px;
@@ -140,8 +145,84 @@ footer{
     color: #fff;
     font-family: 'Roboto';
     font-weight: 300; 
-
 }
+
+/** Intro section ****************/
+
+.intro{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.intro-container{
+    height: 400px;
+    margin-left: 5px;
+    margin-right: 5px;
+    box-sizing: content-box;
+}
+
+.row-heading{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.intro-text-col{
+    box-sizing: border-box;
+    padding-left: 5%;
+    padding-right: 5%; 
+    line-height: 2rem;
+    height: 100%; 
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center; 
+}
+
+.intro-heading{ 
+    font-weight: 200;
+}
+
+.intro-text{
+    font-weight: 300;
+    font-size: 1.2rem;
+    margin: 10px auto 10px auto;
+}
+
+.vid-col-container{
+    box-sizing: border-box;
+    padding-left: 5%;
+    padding-right: 5%; 
+    line-height: 2rem;
+    max-height: 400px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+
+/** Got this code from: (https://www.smashingmagazine.com/2014/02/making-embedded-content-work-in-responsive-design/)
+ and :https://stackoverflow.com/questions/21054426/scaling-iframes-for-responsive-design-css-only?rq=1
+ I was having trouble with the responsiveness of the Youtube iframe **/
+.vid-outer{
+    max-width: 560px;
+    max-height: 315px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+
+.vid-inner{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+/**** End of 3rd party code ****/
 
 
 
