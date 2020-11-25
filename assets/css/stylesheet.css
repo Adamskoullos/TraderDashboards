@@ -165,7 +165,6 @@ footer{
 
 .row-heading{
     margin-top: 30px;
-    margin-bottom: 30px;
 }
 .intro-text-col{
     box-sizing: border-box;
@@ -181,6 +180,7 @@ footer{
 
 .intro-heading{ 
     font-weight: 200;
+    padding: 20px;
 }
 
 .intro-text{
@@ -188,6 +188,8 @@ footer{
     font-size: 1.2rem;
     margin: 10px auto 10px auto;
 }
+
+
 
 .vid-col-container{
     box-sizing: border-box;
@@ -226,11 +228,64 @@ footer{
 /**** End of 3rd party code ****/
 
 /************************************************** Testimonial ************/
-
-.testimonial{
-    position: relative;
+@media (min-width: 300px) {
+    .divider{
+        width:100%;
+        height: 1px;
+        background-color: red;
+        margin-top: 650px;
+    }
 }
 
+
+@media (min-width: 500px) {
+    .divider{
+        width:100%;
+        height: 1px;
+        background-color: red;
+        margin-top: 750px;
+    }
+}
+
+@media (min-width: 576px) {
+    .divider{
+        width:100%;
+        height: 1px;
+        background-color: red;
+        margin-top: 700px;
+    }
+}
+
+@media (min-width: 768px) {
+    .divider{
+        width:100%;
+        height: 1px;
+        background-color: red;
+        margin-top: 300px;
+    }
+}
+
+@media (min-width: 992px) {
+    .divider{
+        width:100%;
+        height: 1px;
+        background-color: red;
+        margin-top: 400px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .divider{
+        width:100%;
+        height: 1px;
+        background-color: red;
+        margin-top: 400px;
+    }
+}
+
+.testimonial{
+    margin-bottom: 70px;
+}
 /******************************************* Index-Dash & Sector-Dash ********************/
 
 .chart{
