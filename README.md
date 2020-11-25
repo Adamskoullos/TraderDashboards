@@ -252,13 +252,13 @@ Overall with the design, a focus during development is to maintain a clean and s
     - [X] Test the functionality of the chart widgets
     - [X] Make any refinements to the styling
     - [X] Validate HTML and CSS
-- [ ] Stock-Dash
+- [X] Stock-Dash
     - [X] Build the Boostrap grid system for the page adding styling classes in the process 
     - [X] Add basic styling to the page
     - [X] Add analasis widgets see what works together and try different options
     - [X] Once settled, refine the styling to bring the page together
-    - [ ] Validate HTML and CSS 
-- [ ] Intraday-Dash
+    - [X] Validate HTML and CSS 
+- [X] Intraday-Dash
     - [X] Build the Bootstrap grid system for the page adding classes for screen sizes and for styling
     - [X] Add basic styling
     - [X] Add the Ticker widgets and test how they adjust for screen sizes, making adjustments as needed

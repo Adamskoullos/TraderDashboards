@@ -77,17 +77,13 @@ footer{
 
 /************************************ Home ******************************/
 
-.container-fluid{
-    padding: 0;
-}
-
 .hero-bg{
     background: url("../images/hero.jpg") center center;
     height: 400px;
     width: 100%;
     margin: 0;
     padding: 0;
-
+}
 /******************************************* Index-Dash & Sector-Dash ********************/
 
 .chart{
@@ -99,6 +95,9 @@ footer{
     border-radius: 4px;
 }
 
+    
+
+}
 .tradingview-widget-container{
     width: 100%;
     height: 100%;
