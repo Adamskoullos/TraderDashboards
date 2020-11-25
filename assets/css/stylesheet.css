@@ -342,3 +342,7 @@ footer{
     border-radius: 4px;
 }
 
+.econ-cal{
+    overflow: scroll;
+}
+
