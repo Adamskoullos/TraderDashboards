@@ -295,10 +295,7 @@ footer{
     background-color: #fff;
     border-radius: 4px;
 }
-
-    
-
-}
+  
 .tradingview-widget-container{
     width: 100%;
     height: 100%;
@@ -459,7 +456,6 @@ footer{
 /*************************************** Stock-Dash *********************/
 .stock-chart{
     min-height: 600px;
-    background-color: #474849;
     margin: 10px;
     display: inline-block;
     background-color: #fff;
