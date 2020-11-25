@@ -200,8 +200,7 @@ footer{
     justify-content: center;
 }
 
-/** Got this code from: (https://www.smashingmagazine.com/2014/02/making-embedded-content-work-in-responsive-design/)
- and :https://stackoverflow.com/questions/21054426/scaling-iframes-for-responsive-design-css-only?rq=1
+/** Got this code from: https://mdbootstrap.com/plugins/jquery/iframe/
  I was having trouble with the responsiveness of the Youtube iframe **/
 .vid-outer{
     max-width: 560px;
