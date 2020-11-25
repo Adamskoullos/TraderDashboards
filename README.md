@@ -333,6 +333,8 @@ Overall with the design, a focus during development is to maintain a clean and s
     - [X] **Solution** Stackoverflow: .dropdown-item:active did the trick I could then pick any colour in the rainbow
 - **Bug:** collapsed menu li nav-items in the drop down menu do not cover the view port width 
     - [X] **Solution** I had altered the styling when floating the ul to the right, After undoing these changes the collapsed menu worked again.
+- **Bug:** All of a sudden all the style for all charts on all pages stopped working and was not visible in the dev tools. 
+    - [X] **Solution** I had accidentally deleted a closing squiggly bracket when writing comments and this broke the below styles for the class="charts"
 
 
 
