@@ -275,29 +275,26 @@ Overall with the design, a focus during development is to maintain a clean and s
 - [X] Create User Guide pdf and save to google drive, get public link and add to user guide link in the top nav bar to open a new tab and test
 - [ ] Create home page videos:
     - [ ] Introduction
-    - [ ] Intraday-Dash
-    - [ ] Index-Dash
-    - [ ] Sector-Dash
-    - [ ] Stock-Dash
+    - [ ] Platform Demo
 - [ ] Create YouTube account and upload videos
-- [ ] Obtain 3x testimonials from traders and create content for carousel
-- [ ] Identify Hero image and save
+- [X] Obtain 2x testimonials from traders and create content for carousel
+- [X] Identify Hero image and save
 - [ ] Identify cantact page image and save
 - **Milestone:** All content for home and contact page now prepared for website
 
 ### Sprint 4 - Complete Home and Contact page  
-- [ ] Home Page
-    - [ ] Build the Boostrap grid to house all the content and Features
-    - [ ] Add classes to adjust layout for each screen size
-    - [ ] Add classes to make provisions for core styling
-    - [ ] Add basic styling to stylesheet
-    - [ ] Add the hero image, styling it to fit, adding css parallax effect and potentially adding an opaque layer
-    - [ ] Add Hero image heading, sub heading and style including positoning (allow space for subscribe button to come)
-    - [ ] Add text to introduction section, add introduction video
-    - [ ] Add the four videos to the dashboard videos section and refine style if needed
-    - [ ] Add the structure to the carousel section and add testimonials
+- [X] Home Page
+    - [X] Build the Boostrap grid to house all the content and Features
+    - [X] Add classes to adjust layout for each screen size
+    - [X] Add classes to make provisions for core styling
+    - [X] Add basic styling to stylesheet
+    - [X] Add the hero image, styling it to fit, adding css parallax effect and potentially adding an opaque layer
+    - [X] Add Hero image heading, sub heading and style including positoning (allow space for subscribe button to come)
+    - [X] Add text to introduction section, add introduction video
+    - [ ] Add the two videos to the dashboard videos section and refine style if needed
+    - [X] Add the structure to the carousel section and add testimonials
     - [ ] Add text to subscribe section and add subscribe modal button (modal form to be added later)
-    - [ ] Add bottom section text and add contact button (leading to the contact page) 
+    - [X] Add bottom section text and add contact button (leading to the contact page) 
 - [ ] Contact Page
     - [ ] Build Bootstrap grid layout for page
     - [ ] Add classes to adjust for srceen size
@@ -313,15 +310,14 @@ Overall with the design, a focus during development is to maintain a clean and s
 - **Milestone:** Home & Contact page content and structure in place  
 
 ### Sprint 5 - Adding call-to-action functionality and element transitions
-- [ ] Home page hero section subscribe button to transition in from the left on page load
-- [ ] Contact section at the bottom of the home page to transition in from the bottom on scroll 
-- [ ] Work out how best to receive emails or at least collect contact details from visitors by leveraging a free 3rd party back end
-- [ ] Adding either mailchimp form to home page hero modal form section or the google sheets option (to be worked out at this time)
-- [ ] Add the same solution from the above to the email form on the contact page
+- [ ] Add the email form on the contact page
+- [ ] Add Google maps to contact page
+- [ ] Transition on scroll the introduction rows
+- [ ] Home page subscribe button to transition in from the left on page load 
 - [ ] Validate HTML and CSS
 - [ ] Confirm all hmtl and css code is clearly organised with comments
 - [ ] Make sure all 3rd party code is labelled with comments and any credits complete 
-- **Milestone:** Call-to-action elements functional and appear in front of the visitor in the natural flow of content
+- **Milestone:** Website complete
 
 
 ## Bugs & Solutions:
