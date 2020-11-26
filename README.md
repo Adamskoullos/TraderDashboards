@@ -339,6 +339,8 @@ Overall with the design, a focus during development is to maintain a clean and s
     - [X] **Solution** I ended up using media querries and using large amounts of margin-top for the below content.
     This doesnt feel like it should be the best solution but this has allowed me to manage the overlapping issue instead of
     actually fixing it. The home screen is fully responsive now.
+**Bug:** Home page - the economic calendar iframe is contained within div's but will only scroll on the Y axis even with overflow:scroll
+    - [] **Solution** 
 
 
 ##  HTML & CSS Testing

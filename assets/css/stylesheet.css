@@ -286,6 +286,14 @@ footer{
 .testimonial{
     margin-bottom: 70px;
 }
+
+/* center profile image for testimonials */
+.profile-pic{
+    height: 140px;
+    border-radius: 50%; 
+}
+
+
 /******************************************* Index-Dash & Sector-Dash ********************/
 
 .chart{
@@ -542,4 +550,5 @@ footer{
 .econ-cal{
     overflow: scroll;
 }
+
 
