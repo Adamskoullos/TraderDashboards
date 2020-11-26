@@ -80,11 +80,12 @@ footer{
 }
 
 .contact-footer{
-    position: fixed;
+    
     bottom: 0;
     left: 0;
     width: 100%;
     text-align: center;
+    background-color: #474849;
 }
 
 .stock-dash-footer{
@@ -645,5 +646,60 @@ footer{
 .econ-cal{
     overflow: scroll;
 }
+
+/*************************************** Contact ************************/
+
+.contact-container-outer{
+    margin-top: 55px;
+    height: 100vw;
+    min-height: 900px;
+    background-image: url('../images/contact-bg.jpg');
+    background-size: cover;
+    background-position: bottom; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;   
+}
+
+.contact-container{
+    position: fixed;
+    background-color: rgba(0,0,0,0.5);
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    margin-top: 50px;
+    
+}
+
+
+.contact-form{
+    position: relative;
+    margin: 20px auto;
+    z-index: 2;
+    width: 90%;
+    max-width: 400px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 10%;
+}
+
+.radio-container{
+    left: 10px;
+    text-align: left;
+    margin-bottom: 10px;
+    color: #fff;
+    font-weight: 300;
+}
+
+.message {
+  resize: both;
+  overflow: auto;
+  color: #474849;
+  margin-bottom: 10px;
+}
+
 
 
