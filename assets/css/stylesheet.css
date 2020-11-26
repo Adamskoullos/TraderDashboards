@@ -78,6 +78,24 @@ footer{
 .home-footer{
     position: relative;
 }
+
+.contact-footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.stock-dash-footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #474849;
+
+}
 /************************************ Home ******************************/
 
 /**** Carousel ****/
@@ -530,9 +548,18 @@ footer{
 }
 
 /*************************************** Stock-Dash *********************/
-.stock-chart{
+
+.econ-chart{
     min-height: 600px;
     margin: 10px;
+    display: inline-block;
+    background-color: #fff;
+    border-radius: 4px;
+}
+
+.stock-chart{
+    min-height: 600px;
+    margin: 10px 10px 100px 10px;
     display: inline-block;
     background-color: #fff;
     border-radius: 4px;
