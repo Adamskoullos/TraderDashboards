@@ -314,6 +314,24 @@ footer{
     border-radius: 50%; 
 }
 
+/******* Subscribe section *****************/
+
+.subscribe-container{
+    margin: 30px auto;
+}
+
+.subscribe-btn{
+    background-color: rgba(38,166,154); 
+    font-family: 'Roboto';
+    color: #fff;
+    font-weight: 300;
+}
+
+.subscribe-text{
+    margin: 5px 10%;
+    font-weight: 200;
+    font-size: 1.2rem;
+}
 
 /******************************************* Index-Dash & Sector-Dash ********************/
 
