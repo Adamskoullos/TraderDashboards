@@ -95,6 +95,7 @@ footer{
     width: 100%;
     text-align: center;
     background-color: #474849;
+    padding-top: 15px;
 
 }
 /************************************ Home ******************************/
@@ -550,9 +551,14 @@ footer{
 
 /*************************************** Stock-Dash *********************/
 
+.chart-container{
+    margin-bottom: 100px;
+
+}
+
 .econ-chart{
     min-height: 600px;
-    margin: 10px;
+    margin: 10px 10px 10px 10px;
     display: inline-block;
     background-color: #fff;
     border-radius: 4px;
@@ -560,7 +566,7 @@ footer{
 
 .stock-chart{
     min-height: 600px;
-    margin: 10px 10px 100px 10px;
+    margin: 10px 10px 10px 10px;
     display: inline-block;
     background-color: #fff;
     border-radius: 4px;
