@@ -164,7 +164,7 @@ footer{
 }
 
 .row-heading{
-    margin-top: 30px;
+    margin-top: ;
 }
 .intro-text-col{
     box-sizing: border-box;
@@ -181,6 +181,7 @@ footer{
 .intro-heading{ 
     font-weight: 200;
     padding: 20px;
+    margin-top: 10px;
 }
 
 .intro-text{
@@ -189,7 +190,12 @@ footer{
     margin: 10px auto 10px auto;
 }
 
-
+.intro-divider{
+    width: 80%;
+    margin: 40px auto 0 auto;
+    height: 1px;
+    background-color: #5f6163;
+}
 
 .vid-col-container{
     box-sizing: border-box;
@@ -232,7 +238,6 @@ footer{
     .divider{
         width:100%;
         height: 1px;
-        background-color: red;
         margin-top: 650px;
     }
 }
@@ -242,7 +247,6 @@ footer{
     .divider{
         width:100%;
         height: 1px;
-        background-color: red;
         margin-top: 750px;
     }
 }
@@ -251,7 +255,6 @@ footer{
     .divider{
         width:100%;
         height: 1px;
-        background-color: red;
         margin-top: 700px;
     }
 }
@@ -260,7 +263,6 @@ footer{
     .divider{
         width:100%;
         height: 1px;
-        background-color: red;
         margin-top: 300px;
     }
 }
@@ -269,7 +271,6 @@ footer{
     .divider{
         width:100%;
         height: 1px;
-        background-color: red;
         margin-top: 400px;
     }
 }
@@ -278,13 +279,33 @@ footer{
     .divider{
         width:100%;
         height: 1px;
-        background-color: red;
         margin-top: 400px;
     }
 }
 
+.testimonial-container{
+    background-color: rgb(243, 243, 243);
+    color: #474849;
+}
+
 .testimonial{
     margin-bottom: 70px;
+    margin-top:70px;
+}
+
+.testimonial h5{
+    margin-top:10px;
+    margin-bottom: 20px;
+    font-weight: 300;
+}
+
+.testimonial h3{
+    margin-top:10px;
+    font-weight: 200;
+}
+
+.testimonial p{
+    font-weight: 300;
 }
 
 /* center profile image for testimonials */
