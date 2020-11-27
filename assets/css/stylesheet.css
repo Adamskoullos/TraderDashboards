@@ -76,6 +76,14 @@ footer{
     margin-top: 10px;
 }
 
+footer h5{
+    font-weight: 200;
+}
+
+footer p {
+    font-weight: 300;
+}
+
 .home-footer{
     position: relative;
 }
