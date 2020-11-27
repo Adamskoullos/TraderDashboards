@@ -699,7 +699,7 @@ footer{
 /*************************************** Contact ************************/
 
 .contact-container-outer{
-    margin-top: 55px;
+    margin-top: 20px;
     height: 1200px;
     background-image: url('../images/contact-bg.jpg');
     background-size: cover;
@@ -710,12 +710,14 @@ footer{
 }
 
 .contact-container{
-    margin-top: 20px;
+    display: flex;
+    align-content: flex-start;
+    align-items: flex-start;
 }
 
 .contact-form{
     position: relative;
-    margin: 20px auto;
+    margin: 0 auto;
     z-index: 2;
     width: 90%;
     max-width: 400px;
@@ -757,20 +759,69 @@ footer{
 }
 
 /** Media queries to stop the Google maps iframe overlapping the footer **/
-/*
+
 @media (min-width: 400px) {
-        .contact-container-outer{
-        margin-top: 55px;
-        height: 100vw;
-        min-height: 900px;
-        max-height: 1150px;
+    .contact-container-outer{
+        margin-top: 30px;
+        height: 1200px;
         background-image: url('../images/contact-bg.jpg');
         background-size: cover;
         background-position: bottom; 
         background-repeat: no-repeat;
         background-attachment: fixed;
-        position: relative;
-         
+        position: relative;  
     }
 }
-*/
+
+@media (min-width: 500px) {
+    .contact-container-outer{
+        margin-top: 25px;
+        height: 1200px;
+        background-image: url('../images/contact-bg.jpg');
+        background-size: cover;
+        background-position: bottom; 
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        position: relative;  
+    }
+}
+
+@media (min-width: 600px) {
+    .contact-container-outer{
+        margin-top: 20px;
+        height: 1200px;
+        background-image: url('../images/contact-bg.jpg');
+        background-size: cover;
+        background-position: bottom; 
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        position: relative;  
+    }
+}
+
+@media (min-width: 700px) {
+    .contact-container-outer{
+        margin-top: 15px;
+        height: 1200px;
+        background-image: url('../images/contact-bg.jpg');
+        background-size: cover;
+        background-position: bottom; 
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        position: relative;  
+    }
+}
+
+@media (min-width: 800px) {
+    .contact-container-outer{
+        margin-top: 10px;
+        height: 1200px;
+        background-image: url('../images/contact-bg.jpg');
+        background-size: cover;
+        background-position: bottom; 
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        position: relative;  
+    }
+}
+
