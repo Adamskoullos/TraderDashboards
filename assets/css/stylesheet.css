@@ -96,7 +96,13 @@ footer{
     text-align: center;
     background-color: #474849;
     padding-top: 15px;
+}
 
+.home-footer-divider{
+    width: 100%;
+    margin: 40px auto 0 auto;
+    height: 1px;
+    background-color: #5f6163;
 }
 /************************************ Home ******************************/
 
@@ -274,6 +280,10 @@ footer{
 /**** End of 3rd party code ****/
 
 /************************************************** Testimonial ************/
+
+/** The below media queries are to solve the solution to the YouTube inframes massively
+    overlapping the content below ****/
+
 @media (min-width: 300px) {
     .divider{
         width:100%;
@@ -358,7 +368,7 @@ footer{
 
 .contact-container-1,
 .subscribe-container{
-    margin: 30px auto;
+    margin: 40px auto;
 }
 
 .subscribe-btn{
@@ -381,6 +391,36 @@ footer{
     font-weight: 200;
     font-size: 1.2rem;
 }
+
+/*** Social media links ****/
+
+.social-links-container{
+    height: 100px;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.social-links-container ul{
+    display: flex;
+    width: 100%; 
+    justify-content: space-around;
+    margin: 0; 
+    padding: 0;   
+}    
+
+.social-links-container li{
+    list-style: none;
+}
+
+.social-links-container i{
+    font-size: 2rem;
+    color: #fff;
+}
+
+
 
 /******************************************* Index-Dash & Sector-Dash ********************/
 
