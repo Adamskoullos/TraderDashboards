@@ -709,12 +709,6 @@ footer{
     position: relative;  
 }
 
-.contact-container{
-    display: flex;
-    align-content: flex-start;
-    align-items: flex-start;
-}
-
 .contact-form{
     position: relative;
     margin: 0 auto;
