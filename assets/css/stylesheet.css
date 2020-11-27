@@ -8,6 +8,7 @@ html, body{
     padding: 0;
     color: #bebdbd;
     text-align: center;
+    position: relative;
 }
 
 /******************************************* Colors ********************/
@@ -50,7 +51,7 @@ background-color: #515253;
     top: 0;
     left: 0;
     right: 0;
-    z-index: 2;
+    z-index: 3;
 }
 
 .chart-container{
@@ -80,12 +81,14 @@ footer{
 }
 
 .contact-footer{
-    
+    position: absolute;
     bottom: 0;
     left: 0;
     width: 100%;
     text-align: center;
-    background-color: #474849;
+    background-color:transparent;
+    color: #fff;
+    z-index: 9999;
 }
 
 .stock-dash-footer{
@@ -697,29 +700,18 @@ footer{
 
 .contact-container-outer{
     margin-top: 55px;
-    height: 100vw;
-    min-height: 900px;
+    height: 1200px;
     background-image: url('../images/contact-bg.jpg');
     background-size: cover;
     background-position: bottom; 
     background-repeat: no-repeat;
     background-attachment: fixed;
-    position: relative;   
+    position: relative;  
 }
 
 .contact-container{
-    position: fixed;
-    background-color: rgba(0,0,0,0.5);
-    left: 0;
-    right: 0;
-    bottom: 0;
-    top: 0;
-    height: 100%;
-    width: 100%;
-    margin-top: 50px;
-    
+    margin-top: 20px;
 }
-
 
 .contact-form{
     position: relative;
@@ -747,5 +739,38 @@ footer{
   margin-bottom: 10px;
 }
 
+.map-container{
+    height: 400px;
+    width: 400px;
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    margin-top: 20px;
+}
 
+.map-container iframe{
+    border: 0;
+    border-radius: 4px;
+    position: relative;
+    height: 400px;
+    width: 100%;
+}
 
+/** Media queries to stop the Google maps iframe overlapping the footer **/
+/*
+@media (min-width: 400px) {
+        .contact-container-outer{
+        margin-top: 55px;
+        height: 100vw;
+        min-height: 900px;
+        max-height: 1150px;
+        background-image: url('../images/contact-bg.jpg');
+        background-size: cover;
+        background-position: bottom; 
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        position: relative;
+         
+    }
+}
+*/
