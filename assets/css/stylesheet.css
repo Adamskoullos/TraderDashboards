@@ -149,7 +149,7 @@ footer p {
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(0,0,0,0.1);
 }
 
 .image-overlay-2{
@@ -169,11 +169,21 @@ footer p {
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(38,166,154,0.3)
+    background-color: rgba(38,166,154,0.3);
 }
 
-
 .main-heading-1{
+    position: absolute;
+    top: 75px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    color: rgb(53, 53, 53);
+    font-family: 'Roboto';
+    font-weight: 300;
+}
+
+.main-heading-2{
     position: absolute;
     top: 75px;
     left: 0;
@@ -196,6 +206,17 @@ footer p {
 }
 
 .sub-heading-1{
+    position: absolute;
+    bottom: 60px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    color: rgb(53, 53, 53);
+    font-family: 'Roboto';
+    font-weight: 400; 
+}
+
+.sub-heading-2{
     position: absolute;
     bottom: 60px;
     left: 0;
