@@ -754,6 +754,7 @@ footer p {
     background-attachment: fixed;
     position: relative; 
     display: flex;
+    padding-top: 15px;
 }
 
 .contact-container{
@@ -792,6 +793,7 @@ footer p {
     padding-bottom: 56.25%;
     position: relative;
     margin-top: 20px;
+    margin-bottom: 15px;
 }
 
 .map-container iframe{
