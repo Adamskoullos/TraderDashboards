@@ -653,6 +653,19 @@ footer p {
 
 /*************************************** Intraday-Dash *********************/
 
+.chart-container-intraday{
+    width: 95%;
+    margin: 50px auto 20px auto;
+}
+
+.ticker-row,
+.mini-chart-row,
+.econ-row{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 3%;
+    margin-right: 3%;
+}
 /* Tickers */
 
 .tickers{
@@ -668,6 +681,7 @@ footer p {
     background-color: #fff;
     margin: 10px;
     border-radius: 4px;
+
 }
 
 /* $ index */
@@ -706,18 +720,15 @@ footer p {
     height: 100%;
 }
 
-.econ-row{
-    min-height: 500px;
-}
-
 .econ-cal,
 .news-feed{
     background-color: #fff;
     margin: 10px;
     border-radius: 4px;
+    min-height: 500px;
 }
 
-.econ-cal{
+.econ-cal-scroll{
     overflow: scroll;
 }
 
