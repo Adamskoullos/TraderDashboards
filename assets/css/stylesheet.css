@@ -452,6 +452,13 @@ footer p {
 
 /******************************************* Index-Dash & Sector-Dash ********************/
 
+.row{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
 .chart{
     min-height: 400px;
     margin: 10px;
@@ -618,9 +625,12 @@ footer p {
 }
 
 /*************************************** Stock-Dash *********************/
+.stock-dash-container{
+    margin-bottom: 80px;
+}
 
 .chart-container{
-    margin-bottom: 100px;
+    margin-bottom: 20px;
 
 }
 
