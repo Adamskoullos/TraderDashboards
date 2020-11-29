@@ -89,14 +89,10 @@ footer p {
 }
 
 .contact-footer{
-    position: absolute;
-    bottom: 0;
-    left: 0;
     width: 100%;
     text-align: center;
     background-color:transparent;
     color: #fff;
-    z-index: 9999;
 }
 
 .stock-dash-footer{
@@ -396,7 +392,7 @@ footer p {
     border-radius: 50%; 
 }
 
-/******* Subscribe & Contact section *****************/
+/*******  home page - Subscribe & Contact section *****************/
 
 .contact-container-1,
 .subscribe-container{
@@ -727,15 +723,41 @@ footer p {
 
 /*************************************** Contact ************************/
 
+.contact-heading-container{
+    padding-top: 6%;
+    margin-bottom: 15px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-heading{
+    color: #fff;
+    font-weight: 200;
+    margin: 0 auto;
+    width: 95%;
+    max-width: 900px;
+    background-color: #414141e5;
+    border-radius: 4px;
+    line-height: 2rem;
+    padding: 10px; 
+}
+
 .contact-container-outer{
     margin-top: 20px;
-    height: 1200px;
+    /*height: 1200px;*/
     background-image: url('../images/contact-bg.jpg');
     background-size: cover;
     background-position: bottom; 
     background-repeat: no-repeat;
     background-attachment: fixed;
-    position: relative;  
+    position: relative; 
+    display: flex;
+}
+
+.contact-container{
+    flex: 1;
 }
 
 .contact-form{
@@ -746,7 +768,6 @@ footer p {
     max-width: 400px;
     padding-left: 3px;
     padding-right: 3px;
-    padding-top: 10%;
 }
 
 .radio-container{
@@ -782,7 +803,7 @@ footer p {
 }
 
 /** Media queries to stop the Google maps iframe overlapping the footer **/
-
+/*
 @media (min-width: 400px) {
     .contact-container-outer{
         margin-top: 40px;
