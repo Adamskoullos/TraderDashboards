@@ -787,7 +787,7 @@ footer p {
 
 .map-container{
     height: 400px;
-    width: 400px;
+    width: 100%;
     overflow: hidden;
     padding-bottom: 56.25%;
     position: relative;
@@ -802,70 +802,4 @@ footer p {
     width: 100%;
 }
 
-/** Media queries to stop the Google maps iframe overlapping the footer **/
-/*
-@media (min-width: 400px) {
-    .contact-container-outer{
-        margin-top: 40px;
-        height: 1200px;
-        background-image: url('../images/contact-bg.jpg');
-        background-size: cover;
-        background-position: bottom; 
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        position: relative;  
-    }
-}
-
-@media (min-width: 500px) {
-    .contact-container-outer{
-        margin-top: 25px;
-        height: 1200px;
-        background-image: url('../images/contact-bg.jpg');
-        background-size: cover;
-        background-position: bottom; 
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        position: relative;  
-    }
-}
-
-@media (min-width: 600px) {
-    .contact-container-outer{
-        margin-top: 20px;
-        height: 1200px;
-        background-image: url('../images/contact-bg.jpg');
-        background-size: cover;
-        background-position: bottom; 
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        position: relative;  
-    }
-}
-
-@media (min-width: 700px) {
-    .contact-container-outer{
-        margin-top: 15px;
-        height: 1200px;
-        background-image: url('../images/contact-bg.jpg');
-        background-size: cover;
-        background-position: bottom; 
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        position: relative;  
-    }
-}
-
-@media (min-width: 800px) {
-    .contact-container-outer{
-        margin-top: 10px;
-        height: 1200px;
-        background-image: url('../images/contact-bg.jpg');
-        background-size: cover;
-        background-position: bottom; 
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        position: relative;  
-    }
-}
 
