@@ -86,6 +86,10 @@ footer p {
 
 .home-footer{
     position: relative;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .contact-footer{
@@ -107,7 +111,7 @@ footer p {
 
 .home-footer-divider{
     width: 100%;
-    margin: 40px auto 0 auto;
+    margin: 0 auto 0 auto;
     height: 1px;
     background-color: #5f6163;
 }
@@ -447,7 +451,75 @@ footer p {
     color: #fff;
 }
 
+/************* Industry logos ************/
 
+.industry-icons-heading{
+    font-weight: 200;
+    color: #474849;
+}
+.industry-icons-row{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(243, 243, 243);
+    padding: 10px; 
+}
+
+.industry-icons-col-1{
+    height:40px;
+    width: 40px;
+    margin: 10px auto;
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.industry-icons-col-1 img{
+    height: 40px;
+    width: 40px;
+}
+
+.industry-icons-col-2{
+    height:25px;
+    width: 116.25px;
+    margin: 10px auto;
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.industry-icons-col-2 img{
+    height: 25px;
+    width: 116.25px;
+}
+
+.industry-icons-col-3{
+    height:25px;
+    width: 72.25px;
+    margin: 10px auto;
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.industry-icons-col-3 img{
+    height: 25px;
+    width: 73.25px;
+}
+
+.industry-icons-col-4{
+    height:25px;
+    width: 89.5px;
+    margin: 10px auto;
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.industry-icons-col-4 img{
+    height: 25px;
+    width: 89.5px;
+}
 
 /******************************************* Index-Dash & Sector-Dash ********************/
 
