@@ -11,11 +11,6 @@ html, body{
     position: relative;
 }
 
-.row{
-  margin-right: 0 !important;
-  margin-left: 0 !important;  
-}
-
 /******************************************* Colors ********************/
 
 .colors-navbar{
@@ -904,6 +899,10 @@ footer p {
 
 /*********************************** Subscribe page ************/
 
+.subscribe-container-outer .row{
+    margin-right: 0;
+    margin-left: 0;
+}
 .subscribe-container-outer{
     margin-top: 20px;
     min-height: 900px;
