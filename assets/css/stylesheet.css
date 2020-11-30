@@ -11,6 +11,11 @@ html, body{
     position: relative;
 }
 
+.row{
+  margin-right: 0 !important;
+  margin-left: 0 !important;  
+}
+
 /******************************************* Colors ********************/
 
 .colors-navbar{
