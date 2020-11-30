@@ -471,7 +471,7 @@ footer p {
     height:40px;
     width: 40px;
     margin: 5px 0;
-    min-height: 70px;
+    min-height: 60px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -485,7 +485,7 @@ footer p {
     height:25px;
     width: 116.25px;
     margin: 5px 0;
-    min-height: 70px;
+    min-height: 60px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -499,7 +499,7 @@ footer p {
     height:25px;
     width: 72.25px;
     margin: 5px 0;
-    min-height: 70px;
+    min-height: 60px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -513,7 +513,7 @@ footer p {
     height:25px;
     width: 89.5px;
     margin: 5px 0;
-    min-height: 70px;
+    min-height: 60px;
     display: flex;
     align-items: center;
     justify-content: center;
