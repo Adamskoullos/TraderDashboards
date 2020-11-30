@@ -399,7 +399,7 @@ footer p {
 
 .contact-container-1,
 .subscribe-container{
-    margin: 40px auto 20px auto;
+    margin: 40px auto;
 }
 
 .subscribe-btn{
@@ -428,7 +428,7 @@ footer p {
 .social-links-container{
     height: 100px;
     width: 80%;
-    margin: 0 auto 10px auto;
+    margin: 0 auto 30px auto;
     display: flex;
     align-items: center;
     justify-content: center;
