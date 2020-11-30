@@ -766,7 +766,6 @@ footer p {
 
 .contact-container-outer{
     margin-top: 20px;
-    /*height: 1200px;*/
     background-image: url('../images/contact-bg.jpg');
     background-size: cover;
     background-position: bottom; 
@@ -852,6 +851,10 @@ footer p {
     display: flex;
 }
 
+.highlight{
+    font-weight: 300;
+    color: rgba(239,83,80);
+}
 .subscribe-heading{
     height: 100%;
     color: #fff;
@@ -863,6 +866,11 @@ footer p {
     border-radius: 4px;
     line-height: 2rem;
     padding: 10px; 
+}
+
+.subscribe-heading li{
+    text-align: left;
+    font-size: 1.2rem;
 }
 
 .form-row{
