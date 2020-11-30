@@ -824,4 +824,57 @@ footer p {
     width: 100%;
 }
 
+/*********************************** Subscribe page ************/
 
+.subscribe-container-outer{
+    margin-top: 20px;
+    min-height: 900px;
+    height: 100%;
+    background-image: url('../images/contact-bg.jpg');
+    background-size: cover;
+    background-position: bottom; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative; 
+    display: flex;
+    flex-direction: column;
+    padding-top: 15px;
+}
+
+.subscribe-text-row{
+    display: flex;
+    align-items: stretch;
+    flex-flow: wrap;
+}
+
+.subscribe-heading-container{
+    height: 100%;
+    display: flex;
+}
+
+.subscribe-heading{
+    height: 100%;
+    color: #fff;
+    font-weight: 200;
+    margin: 0 auto;
+    width: 95%;
+    max-width: 900px;
+    background-color: #414141e5;
+    border-radius: 4px;
+    line-height: 2rem;
+    padding: 10px; 
+}
+
+.form-row{
+    margin-top: 60px;
+    margin-bottom: 15%;
+}
+
+.subscribe-container{
+    min-width: 300px;
+    margin: 40px auto 20px auto;
+}
+
+.radio-margin{
+    margin-bottom: 30px;
+}
