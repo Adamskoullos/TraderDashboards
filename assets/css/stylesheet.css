@@ -470,8 +470,8 @@ footer p {
 .industry-icons-col-1{
     height:40px;
     width: 40px;
-    margin: 10px 0;
-    min-height: 100px;
+    margin: 5px 0;
+    min-height: 70px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -484,8 +484,8 @@ footer p {
 .industry-icons-col-2{
     height:25px;
     width: 116.25px;
-    margin: 10px 0;
-    min-height: 100px;
+    margin: 5px 0;
+    min-height: 70px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -498,8 +498,8 @@ footer p {
 .industry-icons-col-3{
     height:25px;
     width: 72.25px;
-    margin: 10px 0;
-    min-height: 100px;
+    margin: 5px 0;
+    min-height: 70px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -512,8 +512,8 @@ footer p {
 .industry-icons-col-4{
     height:25px;
     width: 89.5px;
-    margin: 10px 0;
-    min-height: 100px;
+    margin: 5px 0;
+    min-height: 70px;
     display: flex;
     align-items: center;
     justify-content: center;
