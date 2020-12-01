@@ -12,6 +12,8 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/stylesheet.css">
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+	<script src="index.js"></script>
 </head>
 <body>
 <nav class="navbar navbar-expand-md navbar-dark colors-navbar nav-top">
@@ -74,7 +76,7 @@
     </div>
     <div class="row form-row">
         <div class="col">
-            <form class="contact-form">
+            <form class="contact-form" method="post">
                 <div class="form-group row">
                     <input type="text" placeholder="First Name" name="fname" id="fname" class="form-control" required>
                 </div>
@@ -101,7 +103,8 @@
                         </label>
                     </div>
                 </div>
-                <button type="submit" class="btn subscribe-btn">Subscribe</button>
+                <!--<button type="submit" class="btn subscribe-btn">Subscribe</button>-->
+                <input class="btn subscribe-btn" type="button" value="Subscribe" onclick="sendEmail()"/>
             </form>
         </div>
     </div>
