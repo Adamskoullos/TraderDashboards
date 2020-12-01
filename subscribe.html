@@ -12,8 +12,6 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/stylesheet.css">
-    <script src="https://smtpjs.com/v3/smtp.js"></script>
-	<script src="index.js"></script>
 </head>
 <body>
 <nav class="navbar navbar-expand-md navbar-dark colors-navbar nav-top">
@@ -76,9 +74,9 @@
     </div>
     <div class="row form-row">
         <div class="col">
-            <form class="contact-form" method="post">
+            <form id="gform" class="contact-form" method="post" data-email="from_email@example.com" action="https://script.google.com/macros/s/AKfycbw2lF0z3pfyY88t4Jl1aTbLbVWnqtb8ULr01af8/exec">
                 <div class="form-group row">
-                    <input type="text" placeholder="First Name" name="fname" id="fname" class="form-control" required>
+                    <input type="text" placeholder="Name" name="name" id="name" class="form-control" required>
                 </div>
                 <div class="form-group row">
                     <input type="email" placeholder="Email" name="email" id="email" class="form-control" required>
@@ -103,8 +101,7 @@
                         </label>
                     </div>
                 </div>
-                <!--<button type="submit" class="btn subscribe-btn">Subscribe</button>-->
-                <input class="btn subscribe-btn" type="button" value="Subscribe" onclick="sendEmail()"/>
+                <button type="submit" class="btn subscribe-btn">&nbsp;Subscribe</button>
             </form>
         </div>
     </div>
@@ -115,6 +112,7 @@
         </footer>
     </div>
 </section>
+    <script data-cfasync="false" type="text/javascript" src="https://cdn.rawgit.com/dwyl/learn-to-send-email-via-google-script-html-no-server/master/form-submission-handler.js"></script>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
 </body>
