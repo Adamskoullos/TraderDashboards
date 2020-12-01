@@ -1,3 +1,10 @@
+// The whole file was copied and pasted from the Async download link in the following 
+// article: https://blog.h-educate.com/how-to-send-an-email-in-a-static-html-page-using-google-sheets-scripts/
+// The file is part of a bigger process of setting up to manage form submission events, provide submission message function and maintain a good user experience 
+
+// Before linking to this file, when forms were submitted json took the user to a near blank white screen circuit breaking the user
+// experience and making it hard to get back to the site.  
+
 (function() {
   function validEmail(email) {
     var re = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
