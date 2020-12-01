@@ -936,6 +936,25 @@ footer p {
     font-weight: 300;
     color: rgba(239,83,80);
 }
+
+.thankyou-text{
+    background-color: rgba(38,166,154,0.7);
+    border-radius: 4px;
+    padding: 15px;
+}
+
+.thankyou-text h1{
+    font-weight: 200;
+    color: #fff;
+    line-height: 3rem;
+    width: 100;
+}
+
+.thankyou-text h2{
+    font-weight: 300;
+    color: #fff;
+    line-height: 3rem;
+}
 .subscribe-heading{
     height: 100%;
     color: #fff;

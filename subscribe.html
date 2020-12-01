@@ -76,8 +76,6 @@
         <div class="col">
             <form class="gform contact-form pure-form pure-form-stacked" method="POST" data-email="example@email.net"
             action="https://script.google.com/macros/s/AKfycbw2lF0z3pfyY88t4Jl1aTbLbVWnqtb8ULr01af8/exec">
-                <!-- change the form action to your script url -->
-
                 <div class="form-elements">
                     <fieldset class="form-group">
                         <input id="name" class="form-control" name="name" placeholder="Name"/>
@@ -90,34 +88,31 @@
                         Must be a valid email address</span>
                     </fieldset>
                     <div class="radio-container radio-margin">
-                    <div class="form-check form-elements">
-                        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="Outright T/I" checked>
-                        <label class="form-check-label" for="exampleRadios1">
-                            I am an outright trader/investor
-                        </label>
+                        <div class="form-check form-elements">
+                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="Outright T/I" checked>
+                            <label class="form-check-label" for="exampleRadios1">
+                                I am an outright trader/investor
+                            </label>
+                        </div>
+                        <div class="form-check form-elements">
+                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="Spread Trader">
+                            <label class="form-check-label" for="exampleRadios2">
+                                I am a spread trader 
+                            </label>
+                        </div>
+                        <div class="form-check form-elements">
+                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios3" value="Portfolio M">
+                            <label class="form-check-label" for="exampleRadios3">
+                                I manage an equity long/short portfolio
+                            </label>
+                        </div>
                     </div>
-                    <div class="form-check form-elements">
-                        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="Spread Trader">
-                        <label class="form-check-label" for="exampleRadios2">
-                            I am a spread trader 
-                        </label>
-                    </div>
-                    <div class="form-check form-elements">
-                        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios3" value="Portfolio M">
-                        <label class="form-check-label" for="exampleRadios3">
-                            I manage an equity long/short portfolio
-                        </label>
-                    </div>
-                </div>
-
                     <button class="btn subscribe-btn">Subscribe</button>
                 </div>
-
-                <!-- Customise the Thankyou Message People See when they submit the form: -->
-                <div class="thankyou_message" style="display:none;">
-                <h2>Thank you for subscribing!<br>Go over to our contact page and send us a message or check out our trading and investing dashboards</h2>
+                <div class="thankyou_message thankyou-text" style="display:none;">
+                    <h1>Thank you for subscribing!</h1>
+                    <h2>Remember to bookmark our dashboards<br>Happy trading!</h2>
                 </div>
-
             </form>
         </div>
     </div>
