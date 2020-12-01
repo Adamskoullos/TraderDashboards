@@ -1,5 +1,3 @@
-// This whole file was added to handle the response event after form submissions and was copied from: https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server/blob/master/form-submission-handler.js
-
 (function() {
   // get all data in form and return object
   function getFormData(form) {
