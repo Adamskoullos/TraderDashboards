@@ -320,7 +320,6 @@ Overall with the design, a focus during development is to maintain a clean and s
 - [ ] Make sure all 3rd party code is labelled with comments and any credits complete 
 - **Milestone:** Website complete
 
-
 ## Bugs & Solutions:
 - **Bug:** The justify-content-center bootstrap class is not centering the navbar ul
     - [X] **Solution** I ended up setting the navbar float: none and pos relative, 
