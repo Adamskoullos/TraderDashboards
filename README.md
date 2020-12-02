@@ -1,8 +1,7 @@
 # TraderDashboards
-<a href="https://adamskoullos.github.io/TraderDashboards/index.html" target="_blank">Live Link</a>
+<a href="https://adamskoullos.github.io/TraderDashboards/index.html" target="_blank">Live Link</a> | <a href="https://drive.google.com/file/d/1Ln12hylrqkoI-hx5NzBe4zTPrj-qpbPx/view?usp=sharing" target="_blank">User Guide</a>
 
 ![Readme project image](https://user-images.githubusercontent.com/73107656/100638722-3ecafc80-332c-11eb-8ea2-c65af6a43222.PNG)
- | [User guide](https://drive.google.com/file/d/1Ln12hylrqkoI-hx5NzBe4zTPrj-qpbPx/view?usp=sharing)
 
 ## Table of Contents: 
 - [Project Overview](#Project-Overview)

@@ -468,6 +468,7 @@ footer p {
     background-color: rgb(243, 243, 243);
     margin-right: 0;
     margin-left: 0;
+    min-height: 150px;
 }
 
 .industry-icons-col-1{
