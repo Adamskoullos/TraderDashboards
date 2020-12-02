@@ -341,6 +341,9 @@ Overall with the design, a focus during development is to maintain a clean and s
 - **Bug:** README.md links to external url's even with target="_blank still open within the same tab (Have tried both mark down and mark up methods)
     - [] **Solution** 
 
+**Note:** Being my first project I began the project unknowingly using a mix of methods to position content, it was like putting pieces from two different puzzles together. However as I struggled through I slowly began to understand 
+more and more how Boostrap rows and columns work in conjunction with Flexbox and how other properties work when used with flexbox for example margin:.
+This is one of the biggest lessons learnt during the project that I will carry forward.   
 
 ##  Final HTML & CSS Testing
 - [ ] HTML code Tested 
