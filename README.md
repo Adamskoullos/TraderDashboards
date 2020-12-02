@@ -366,18 +366,21 @@ Overall with the design, a focus during development is to maintain a clean and s
 
 ## Credits
 - Code:
-    - MDBootstrap: https://mdbootstrap.com/plugins/jquery/iframe/ This really helped me work out the YouTube iframe responsiveness (massive overlapping issues)
+    - MDBootstrap: https://mdbootstrap.com/plugins/jquery/iframe/ This really helped me add well fitting and styled containers to YouTube and Google maps iframes
     - Hassan AboulHassan for his article detailing the process of adding form functionality using Googles Gmail, Drive and Google sheets coupled with JS and Ajax:
         https://blog.h-educate.com/how-to-send-an-email-in-a-static-html-page-using-google-sheets-scripts/
-
+        The code used is from the JS file and the relevant classes used in the HTML file 
         This process was orignally put together in this repo: https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server/blob/master/README.md 
 
 - Content:
-    - The charting widgets and stock tickers are supplied by TradingView
-    - The economic calendar and news feed are supplied by Dukascopy
-
+    - All content was written by the developer
+    
 - Media:
-
+    - Images are sourced from ShutterStock and edited by the developer 
+    - Icons are sourced from FontAwesome
+    - Videos are created by the developer
+    - The charting widgets and stock tickers are supplied by TradingView which includes price data from FXCM, CBOE, Oanda and CurrencyCom 
+    - The economic calendar and news feed are supplied by Dukascopy who pull data in from many news sources 
 
 - Acknowledgments:
     - My Mentor **Antonio Rodriquez** for keeping me on the straight and narrow and focused on the highest priority tasks at different stages of the project.
@@ -399,6 +402,7 @@ Overall with the design, a focus during development is to maintain a clean and s
 ## Languages
 - HMTL5
 - CSS3
+- Javascript
 
 ## Frameworks, Libraries & Programs
 - GitHub
@@ -406,10 +410,9 @@ Overall with the design, a focus during development is to maintain a clean and s
 - GitPod
 - Balsamiq
 - Bootstrap v4.5
-- JQuery
+- JQuery (Ajax)
 - Google Fonts
 - Font Awesome
-- Hover.css
-- CSS.Tricks
+
 
 [Back to the top](#TraderDashboards)
