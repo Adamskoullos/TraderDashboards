@@ -193,9 +193,9 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 
 ## Design
 - Color Scheme
-    - The colour scheme is a work in motion because in order to maintain a 3-4 colour pallete I will need to work with the limiting factors of using 3rd party features.
-      Because the 3rd party features are being sourced through three different providers the challenge is to present them all as one, in a clean and uniformed design.
-      The final design may have a dark or light theme and the goal is to have two main contrasting colours using 2 futher main accent colours.  
+    - The main colours within the 3rd party charting widgets is white, green and red and these are not accessible to change.  Therefore the site colour theme is designed
+    around these core colours in order to produce a codehesive look and feel across the site. Because the dashboards incorporate many busy features the rest of the site is
+    made with a focus towards looking simple, subtle and clean to create a balance.     
 
 - Typography
     - Again depending on which provider is mostly used for the 3rd party widgets the website typography will be set to best match this.
@@ -272,9 +272,9 @@ Overall with the design, a focus during development is to maintain a clean and s
 
 ### Sprint 3 - Create content for Home & Contact page
 - [X] Create User Guide pdf and save to google drive, get public link and add to user guide link in the top nav bar to open a new tab and test
-- [ ] Create home page videos:
-    - [ ] Introduction
-    - [ ] Platform Demo
+- [X] Create home page videos:
+    - [X] Introduction
+    - [X] Platform Demo
 - [ ] Create YouTube account and upload videos
 - [X] Obtain 2x testimonials from traders and create content for carousel
 - [X] Identify Hero image and save
@@ -290,7 +290,7 @@ Overall with the design, a focus during development is to maintain a clean and s
     - [X] Add the hero image, styling it to fit, adding css parallax effect and potentially adding an opaque layer
     - [X] Add Hero image heading, sub heading and style including positoning (allow space for subscribe button to come)
     - [X] Add text to introduction section, add introduction video
-    - [ ] Add the two videos to the dashboard videos section and refine style if needed
+    - [X] Add the two videos to the intro section and refine style if needed
     - [X] Add the structure to the carousel section and add testimonials
     - [X] Add text to subscribe section and add subscribe button link
     - [X] Add bottom section text and add contact button (leading to the contact page) 
