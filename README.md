@@ -278,7 +278,7 @@ Overall with the design, a focus during development is to maintain a clean and s
 - [ ] Create YouTube account and upload videos
 - [X] Obtain 2x testimonials from traders and create content for carousel
 - [X] Identify Hero image and save
-- [ ] Identify cantact page image and save
+- [X] Identify cantact page image and save
 - **Milestone:** All content for home and contact page now prepared for website
 
 ### Sprint 4 - Complete Home and Contact page  
@@ -292,7 +292,7 @@ Overall with the design, a focus during development is to maintain a clean and s
     - [X] Add text to introduction section, add introduction video
     - [ ] Add the two videos to the dashboard videos section and refine style if needed
     - [X] Add the structure to the carousel section and add testimonials
-    - [ ] Add text to subscribe section and add subscribe modal button (modal form to be added later)
+    - [X] Add text to subscribe section and add subscribe button link
     - [X] Add bottom section text and add contact button (leading to the contact page) 
 - [ ] Contact Page
     - [X] Build Bootstrap grid layout for page
@@ -308,8 +308,13 @@ Overall with the design, a focus during development is to maintain a clean and s
 ### Sprint 5 - Adding call-to-action functionality and element transitions
 - [X] Add the email form on the contact page
 - [X] Add Google maps to contact page
-- [ ] Transition on scroll the introduction rows
-- [ ] Home page subscribe button to transition in from the left on page load 
+- [X] Move User Guide to end of nav bar on each page
+- [X] Make separate subscribe page in line with contact page and make home page subscribe button link
+- [X] Add heading section on contact page and add media querries to adjust for sizing
+- [X] Make readme title a link, add multi device image at top
+- [X] Refine first hero image in slider to contrast more effectively, colour match red hero image with theme, add industry logos to home page, add real testimonial
+- [X] Add submit functionality to contact and subscribe forms keeping giving the user a success message and keeping them on the page
+- [X] Collect form data within Google sheets automatically producing lead contact list  
 - [ ] Validate HTML and CSS
 - [ ] Confirm all hmtl and css code is clearly organised with comments
 - [ ] Make sure all 3rd party code is labelled with comments and any credits complete 
@@ -331,11 +336,13 @@ Overall with the design, a focus during development is to maintain a clean and s
     - [X] **Solution** I ended up using media querries and using large amounts of margin-top for the below content.
     This doesnt feel like it should be the best solution but this has allowed me to manage the overlapping issue instead of
     actually fixing it. The home screen is fully responsive now.
-**Bug:** Home page - the economic calendar iframe is contained within div's but will only scroll on the Y axis even with overflow:scroll
+**Bug:** Home page - the economic calendar iframe is contained within div's but will only scroll on the Y axis even when it is contained within a div with overflow:scroll
+    - [] **Solution** 
+- **Bug:** README.md links to external url's even with target="_blank still open within the same tab (Have tried both mark down and mark up methods)
     - [] **Solution** 
 
 
-##  HTML & CSS Testing
+##  Final HTML & CSS Testing
 - [ ] HTML code Tested 
 - [ ] CSS code Tested  
 
@@ -359,7 +366,12 @@ Overall with the design, a focus during development is to maintain a clean and s
 
 ## Credits
 - Code:
-    - MDBootstrap: https://mdbootstrap.com/plugins/jquery/iframe/ This really helped me work out the YouTube iframe responsiveness 
+    - MDBootstrap: https://mdbootstrap.com/plugins/jquery/iframe/ This really helped me work out the YouTube iframe responsiveness (massive overlapping issues)
+    - Hassan AboulHassan for his article detailing the process of adding form functionality using Googles Gmail, Drive and Google sheets coupled with JS and Ajax:
+        https://blog.h-educate.com/how-to-send-an-email-in-a-static-html-page-using-google-sheets-scripts/
+
+        This process was orignally put together in this repo: https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server/blob/master/README.md 
+
 - Content:
     - The charting widgets and stock tickers are supplied by TradingView
     - The economic calendar and news feed are supplied by Dukascopy
@@ -368,6 +380,10 @@ Overall with the design, a focus during development is to maintain a clean and s
 
 
 - Acknowledgments:
+    - My Mentor **Antonio Rodriquez** for keeping me on the straight and narrow and focused on the highest priority tasks at different stages of the project.
+    Also advice in using the dev tools to dial in on elements that are not acting as expected to identify the cause and make adjustments.  This really helped when
+    customising Bootstrap.  
+    
 
 
 # Deployment
