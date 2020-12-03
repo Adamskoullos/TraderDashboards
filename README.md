@@ -335,17 +335,17 @@ Overall with the design, a focus during development is to maintain a clean and s
     - [X] **Solution** I ended up using media querries and using large amounts of margin-top for the below content.
     This doesnt feel like it should be the best solution but this has allowed me to manage the overlapping issue instead of
     actually fixing it. The home screen is fully responsive now.
-**Bug:** Home page - the economic calendar iframe is contained within div's but will only scroll on the Y axis even when it is contained within a div with overflow:scroll
-    - [] **Solution** 
+- **Bug:** Home page - the economic calendar iframe is contained within div's but will only scroll on the Y axis even when it is contained within a div with overflow:scroll
+    - [] **Solution** Unresolved, but very usable even on mobile.  Date, time and event are all visible.
 - **Bug:** README.md links to external url's even with target="_blank still open within the same tab (Have tried both mark down and mark up methods)
-    - [] **Solution** 
+    - [] **Solution** Unresolved, all links are now in markup using <a> tags which include target="_blank".  Visitors will for now right click 'open in new tab' Not great but not a show stopper 
 
 **Note:** Being my first project I began the project unknowingly using a mix of methods to position content, it was like putting pieces from two different puzzles together. However as I struggled through I slowly began to understand 
 more and more how Boostrap rows and columns work in conjunction with Flexbox and how other properties work when used with flexbox for example margin:auto;
 This is one of the biggest lessons learnt during the project that I will carry forward.   
 
 ##  Final HTML & CSS Testing
-- [ ] HTML code Tested 
+- [X] HTML code Tested 
 - [X] CSS code Tested  
 
 ## Testing  Business Goals & User Stories
@@ -405,7 +405,7 @@ This is one of the biggest lessons learnt during the project that I will carry f
 - [X] The website works on all devices: Each page of the website has been proven on all Android and Apple devices as well as laptop and desktop screens.
 ![Device testing](https://user-images.githubusercontent.com/73107656/101066449-55708e00-358e-11eb-9664-e46f3b1ce21b.PNG)
 ## Browser Testing
-- [ ] The website works on Chrome, Firefox, Edge & Safari
+- [X] The website works on Chrome, Firefox, Edge & Safari
 
 ## Credits
 - Code:
