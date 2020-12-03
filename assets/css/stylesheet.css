@@ -753,12 +753,6 @@ footer p {
     margin-left: 15px;
     margin-right: 15px;
 }
-/* Tickers */
-
-.tickers{
-    min-width: 200px;
-    margin-bottom: -35px;
-}
 
 /* Mini chart */
 
@@ -777,8 +771,26 @@ footer p {
     height: 100%;
 }
 
+/* Bitcoin */
+#tradingview_169f9{
+    width: 100%;
+    height: 100%;
+}
+
 /*Crude oil */
 #tradingview_630ab{
+    width: 100%;
+    height: 100%;
+}
+
+/* FTSE 100 */
+#tradingview_a8793{
+    width: 100%;
+    height: 100%;
+}
+
+/* German DAX */
+#tradingview_a4f87{
     width: 100%;
     height: 100%;
 }
