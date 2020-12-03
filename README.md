@@ -348,27 +348,59 @@ This is one of the biggest lessons learnt during the project that I will carry f
 - [ ] HTML code Tested 
 - [X] CSS code Tested  
 
-## Testing User Stories
+## Testing  Business Goals & User Stories
+
+### TraderDashboards Owner Goals:
+- To get TraderDashboards out and being used by equity traders around the world: 
+    - The website is ready to be distributed to market participants
+- To build a contact list of potential future customers and provide prospects easy access to contact the owner to discuss their own goals:
+    - **Important** By utilising Google Apps Mail in conjunction with leveraging a 3rd party form-submission-handler.js file both the contact and subscribe page forms are fully functional.
+    They both provide a success message to the user keeping them on the page to continue on to another page plus all subscribe and email contact details 
+    are automatically saved to TraderDashboards Google Drive contact spreadsheet which also captures the values within the radial options.  This is brilliant as the act of 
+    creating a database of prospective clients which is also a mailing list is automated.  This has got to be the part of the project that I am most excited about.
+![Email submission event](https://user-images.githubusercontent.com/73107656/101062024-0a07b100-3589-11eb-9173-6d5925f3467a.PNG)
+![Subscribe submission event](https://user-images.githubusercontent.com/73107656/101063520-cc0b8c80-358a-11eb-82ac-e78b57085938.PNG)
+- To promote professional trading processes and present market analysis tools in a more functional way:
+    - The way the analysis dashboards are presented promotes a logical sequence which naturally assist the user in building a holistic picture of the current market environment.
+    This also very much creates consistency in the process, which allows for skill development and the opportunity to become familar with intermarket relationships and when they change 
+
+### Prospective Client Goals:
+- Prospects are using the site while at the same time considering if the developers at TraderDashbaords would make a good fit for the project they are planning for their own business: 
+    - The website presents to prospects that not only can the developers at TraderDashboards build tools that they would like to build for themselves but also demonstrates
+    that the developers also understand their trading and investment business and the industry.  This should build confidence and rapport  
+
+### Potential Employers Goals:
+- Employers will want to see professional coding acumen as well as trading and investing knowledge and experience plus a passion for both. A developer that can communicate 
+    with other parts of the business and understand how the end product is utilised in the real world will be of value. I feel this comes across in the choice of products used, the way the dashboards 
+    are organised and presented and also in the demonstration videos 
 
 ### First Time Visitor Goals:
-    - To understand what the website does and if they are interested within 10 seconds:
-        - The hero carousel at the top of the home page includes 3 sliders clearly stating what the website is all about
-        - Scrolling down the introduction section is clear with very short text leading to short videos
-    - To get access to the trading dashboards and see what all fuss is about quickly and with minimal clicks:
-        - Every page has a fixed top navbar with a consistent layout across pages.  Users can visit any page from the top nav bar
-    - To decide if TradeDashboards presents data in a way that provides value to their trading/investing operation and if they should bookmark a given dashboard:
-        - Users can either watch the videos or get straight into the dashboards.  They can resize the browser to fit their existing screen set up and even have full functionality on mobile for every dashboard.
-    - Does TraderDashboards allow the trader to develop the building blocks of their trading edge, do they feel using the tool increases their edge in the market:
-        - Yes the way the Index-Dash is presented promotes traders to first identify supply and demand in risk off assets, then risk assets and then on to compare the major indexes to complete the story
-        - The Intraday-Dash is presented to provide real-time snap shots of risk sentiment and     
+- To understand what the website does and if they are interested within 10 seconds:
+    - The hero carousel at the top of the home page includes 3 sliders clearly stating what the website is all about
+    - Scrolling down the introduction section is clear with very short text leading to short videos
+- To get access to the trading dashboards and see what all fuss is about quickly and with minimal clicks:
+    - Every page has a fixed top navbar with a consistent layout across pages.  Users can visit any page from the top nav bar
+- To decide if TradeDashboards presents data in a way that provides value to their trading/investing operation and if they should bookmark a given dashboard:
+    - Users can either watch the videos or get straight into the dashboards.  They can resize the browser to fit their existing screen set up and even have full functionality on mobile for every dashboard.
+- Does TraderDashboards allow the trader to develop the building blocks of their trading edge, do they feel using the tool increases their edge in the market:
+    - Yes the way the Index-Dash is presented promotes traders to first identify supply and demand in risk off assets, then risk assets and then on to compare the major indexes to complete the story
+    - The Intraday-Dash is presented to provide a real-time snap shot of risk sentiment and overall market direction      
 
 ### Returning Visitor Goals:
-    - ksdkndn
-
-
+- To subscribe and be the first to try new trading products as they are rolled out:
+    - Visitors can get to the subscibe page with one click from any page. They are automatically added to the mailing list spreadsheet within Google Sheets
+- To get in touch with the developer and discuss their own goals:
+    - Visitors can get to the contact page with one click from any page.  The owner is notified of new messages via email and the new contact is added to the Google sheets
+    spreadsheet 
+- To give TraderDashboards an ongoing test to see if they are able to develop a greater trading edge:
+    - Users can bookmark any dashboard and go straight to that page anytime and also use multiple dashboards at the same time to create their own terminal.
+    
 ### Frequent User Goals:
-    - wesegirtfgn
-
+- For TraderDashboards to become a core part of a traders daily operational processes:
+    - Users that regularly utilise the dashboards will become intricately familiar with how these markets move in relation to each other and develop the ability the chunk the
+    the information from all the data points on the Intraday-Dash.  Over time this allows the trader/investor to develop a powerful edge to add to their existing strategy 
+### Frequent User example of how multiple dashboards can be displayed on one monitor and used at the same time:
+![Email submission event](https://user-images.githubusercontent.com/73107656/101062405-85696280-3589-11eb-84eb-d730fb58abba.PNG)
 ## Device Testing
 - [ ] The website works on all devices
 
