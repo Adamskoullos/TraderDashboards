@@ -106,15 +106,17 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 
 
 ## Features and Functions to be included in the Project
-- Subscribe modal pop up linked to mailchimp
-- Email form providing user details, message linked to mailchimp
-- Possibly add calendly schedule a call form on the contact page
-- CSS parallax hero image 
-- Subscribe button transition in when page loads
+- Hero Carousel at top of landing page 
+- Introduction and demonstration videos on landing page
+- Testimonial carousel near the bottom of home page
+- Call to action contact and subscribe buttons at the bottom of home (landing page)
+- Contact and Subscribe pages to have a fixed background image
 - Charting widgets embedded from 3rd party sources
 - Live news feed widget from 3rd party news aggregator
 - Live economic calendar widget from 3rd party
-- Embedded videos presenting the functionality of the dashboards  
+- Fully functioning email and subscribe forms with success message
+- Automated Lead capture process using Google Apps Mail to send new lead details to TraderDashboards email plus auto save in contact spreadsheet in Google sheets 
+  
 
 ## Information Architecture
 - Nav Bar: User Guide link to pdf
@@ -125,8 +127,8 @@ The strategy styles will include a mix of trend and mean reversion plays across 
     - Below that a testimonial carousel with a couple of rotating testimonials
     - just before the footer a short text with a contact button taking the user to the contact page 
 - Intraday-Dash:
-    - Tickers showing the net change since previous close (Dollar index, Bitcoin, Gold, Brent, Ftse, Dax)
-    - 5 minute charts showing real-time price action for (Dollar index, WTI oil, Gold, S&P, Russell, Nasdaq)
+    - Tickers/mini charts showing the net change since previous close (Dollar index, Bitcoin, Gold, Brent, Ftse, Dax)
+    - 5 minute mini charts showing real-time price action for (Dollar index, WTI oil, Gold, S&P, Russell, Nasdaq)
     - Live stream economic calendar showing US, UK and European price sentsitive releases
     - Aggregated live news feed showing price sensitive events
 - Index-Dash:
@@ -135,11 +137,7 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 - Sector-Dash:
     - The same chart set up as the Index-Dash but using the US sector ETF products
 - Stock-Dash:
-    - Daily chart with 50 and 20 day moving average coupled with a 15 mintue equivalent both of which have access to all the technical anaylsis tools and can be used to view any stock end-of-day data
-    - 15 minute that can be manually set to view the same stock in order to view the product with multi timframe perspective
-    - Product table that is used to sort and identify stocks for further analysis
-    - Company fundamental sheet showing financial data for a given stock
-    - Yahoo finance stock page iframe, providing the option to view latest news for a firm and dig deeper into the fundamentals 
+    - Daily and 15 minute chart with fully accissible features so users can change the product and undertake stock specific analysis 
 
 ## Interactive Elements
 - Main nav bar (top):
@@ -153,8 +151,7 @@ The strategy styles will include a mix of trend and mean reversion plays across 
     - contact
     - Subscribe
 - Nav bar (bottom):
-    - Dashboards drop down menu
-    - Contact tab to be taken directly to the contact page 
+    - Copyright and TradingView text 
 - Home:
     - Top nav bar taking the visitor directly to any other page and dashboard (opening in new tab)
     - Nav bar tabs to have subtle hover effects and clearly highlight the active page
@@ -305,7 +302,7 @@ Overall with the design, a focus during development is to maintain a clean and s
     - [X] Make sure all 3rd party code is labelled with comments and any credits complete
 - **Milestone:** Home & Contact page content and structure in place  
 
-### Sprint 5 - Adding call-to-action functionality and element transitions
+### Sprint 5 - Adding call-to-action functionality and sweeping up all remaining tasks
 - [X] Add the email form on the contact page
 - [X] Add Google maps to contact page
 - [X] Move User Guide to end of nav bar on each page
@@ -315,7 +312,7 @@ Overall with the design, a focus during development is to maintain a clean and s
 - [X] Refine first hero image in slider to contrast more effectively, colour match red hero image with theme, add industry logos to home page, add real testimonial
 - [X] Add submit functionality to contact and subscribe forms keeping giving the user a success message and keeping them on the page
 - [X] Collect form data within Google sheets automatically producing lead contact list  
-- [ ] Validate HTML and CSS
+- [X] Validate HTML and CSS
 - [X] Confirm all hmtl and css code is clearly organised with comments
 - [X] Make sure all 3rd party code is labelled with comments and any credits complete 
 - **Milestone:** Website complete
@@ -340,7 +337,7 @@ Overall with the design, a focus during development is to maintain a clean and s
 - **Bug:** README.md links to external url's even with target="_blank still open within the same tab (Have tried both mark down and mark up methods)
     - [] **Solution** Unresolved, all links are now in markup using <a> tags which include target="_blank".  Visitors will for now right click 'open in new tab' Not great but not a show stopper 
 
-**Note:** Being my first project I began the project unknowingly using a mix of methods to position content, it was like putting pieces from two different puzzles together. However as I struggled through I slowly began to understand 
+**Note:** Being my first project I began the project unknowingly using a mix of methods to position content, it was like putting pieces from two different puzzles together (containers and items). However as I struggled through I slowly began to understand 
 more and more how Boostrap rows and columns work in conjunction with Flexbox and how other properties work when used with flexbox for example margin:auto;
 This is one of the biggest lessons learnt during the project that I will carry forward.   
 
@@ -434,7 +431,8 @@ This is one of the biggest lessons learnt during the project that I will carry f
 - Acknowledgments:
     - My Mentor **Antonio Rodriquez** for keeping me on the straight and narrow and focused on the highest priority tasks at different stages of the project.
     Also advice in using the dev tools to dial in on elements that are not acting as expected to identify the cause and make adjustments.  This really helped when
-    customising Bootstrap.  
+    customising Bootstrap.
+    - My friends in the trading and investing industry for sharing their insights during the planning phase and then giving me frank and honest feedback during development     
     
 
 
