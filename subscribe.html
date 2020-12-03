@@ -74,19 +74,23 @@
     </div>
     <div class="row form-row">
         <div class="col">
+        <!-- The below form is built using some classes and elements that are built into the javascript file. The below action:url is provided by Google and was obtained 
+            while following along with a brilliant article: https://blog.h-educate.com/how-to-send-an-email-in-a-static-html-page-using-google-sheets-scripts/  This process originally came
+            from a GitHub repo: https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server/blob/master/README.md and auto adds new contacts to Google sheets 
+            as well as bringing Ajax in to manage submit events.  I detail this within the README.md file when testing owner goals-->
             <form class="gform contact-form pure-form pure-form-stacked" method="POST" data-email="example@email.net"
             action="https://script.google.com/macros/s/AKfycbw2lF0z3pfyY88t4Jl1aTbLbVWnqtb8ULr01af8/exec">
                 <div class="form-elements">
                     <fieldset class="form-group">
                         <input id="name" class="form-control" name="name" placeholder="Name"/>
                     </fieldset>
-
                     <fieldset class="form-group">
                         <input id="email" class="form-control" name="email" type="email" value=""
                         required placeholder="Email"/>
                         <span class="email-invalid" style="display:none">
                         Must be a valid email address</span>
                     </fieldset>
+                    <!--The below values within the radial options are sent through with the other elements to the Google sheets contact database on submission-->
                     <div class="radio-container radio-margin">
                         <div class="form-check form-elements">
                             <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="Outright T/I" checked>
@@ -109,6 +113,7 @@
                     </div>
                     <button class="btn subscribe-btn">Subscribe</button>
                 </div>
+                <!--The below thank you message is the magic that takes place thanks to the form-submission-handler.js file -->
                 <div class="thankyou_message thankyou-text" style="display:none;">
                     <h1>Thank you for subscribing!</h1>
                     <h2>Remember to bookmark our dashboards<br>Happy trading!</h2>
