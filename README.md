@@ -355,7 +355,11 @@ This is one of the biggest lessons learnt during the project that I will carry f
     They both provide a success message to the user keeping them on the page to continue on to another page plus all subscribe and email contact details 
     are automatically saved to TraderDashboards Google Drive contact spreadsheet which also captures the values within the radial options.  This is brilliant as the act of 
     creating a database of prospective clients which is also a mailing list is automated.  This has got to be the part of the project that I am most excited about.
+
+
 ![Email submission event](https://user-images.githubusercontent.com/73107656/101062024-0a07b100-3589-11eb-9173-6d5925f3467a.PNG)
+
+
 ![Subscribe submission event](https://user-images.githubusercontent.com/73107656/101063520-cc0b8c80-358a-11eb-82ac-e78b57085938.PNG)
 - To promote professional trading processes and present market analysis tools in a more functional way:
     - The way the analysis dashboards are presented promotes a logical sequence which naturally assist the user in building a holistic picture of the current market environment.
@@ -399,7 +403,7 @@ This is one of the biggest lessons learnt during the project that I will carry f
 ### Frequent User example of how multiple dashboards can be displayed on one monitor and used at the same time:
 ![Email submission event](https://user-images.githubusercontent.com/73107656/101062405-85696280-3589-11eb-84eb-d730fb58abba.PNG)
 ## Device Testing
-- [X] The website works on all devices: Each page of the website has been proven on all Android and Apple devices as well as laptop and desktop screens.
+- [X] The website works on all devices: Each page of the website has been proven on Android and IOS devices as well as laptop and desktop screens.
 ![Device testing](https://user-images.githubusercontent.com/73107656/101066449-55708e00-358e-11eb-9664-e46f3b1ce21b.PNG)
 ## Browser Testing
 - [X] The website works on Chrome, Firefox, Edge & Safari
@@ -434,16 +438,28 @@ This is one of the biggest lessons learnt during the project that I will carry f
     customising Bootstrap.
     - My friends in the trading and investing industry for sharing their insights during the planning phase and then giving me frank and honest feedback during development     
     
-
-
 # Deployment
 
 ## GitHub Pages
+The project is deployed to GitHub Pages:
+- Be on the main (README) page of the repo to deploy
+- Click on  the settings cog at the end of the repo tabs
+- Scroll down to the GitHub Pages section
+- Choose the branch to publish and save
+- A custom domain can be added here and then linked with the DNS settings within cPanel or domain providers website  
 
 ## Forking
+To work on 3rd party open source projects we can fork the repo. 
+To do this visit the desired repo and hit the fork tab in the top right corner which then
+makes a copy to your own GitHub account.
 
 ## Local Clone
-
+To copy your own repo to maybe use it in a new project:
+First create your new repo, then go to the old repo's (the one to be cloned) main page and hit the
+code tabe next to the big green Gitpod tab.  Copy the required url depending on if you want to connect through 
+HTTPS or SSH and then head over to Git Bash. Get into the new repo directory, type: git clone and then paste the
+url of the soon to be cloned repo and press enter. It is done.
+ 
 # Technologies
 
 ## Languages
@@ -460,6 +476,7 @@ This is one of the biggest lessons learnt during the project that I will carry f
 - JQuery (Ajax)
 - Google Fonts
 - Font Awesome
+- Google Apps Mail
 
 
 [Back to the top](#TraderDashboards)
