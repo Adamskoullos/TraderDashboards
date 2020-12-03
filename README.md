@@ -438,7 +438,8 @@ This is one of the biggest lessons learnt during the project that I will carry f
     Also advice in using the dev tools to dial in on elements that are not acting as expected to identify the cause and make adjustments.  This really helped when
     customising Bootstrap.
     - My friends in the trading and investing industry for sharing their insights during the planning phase and then giving me frank and honest feedback during development     
-    
+    - My fellow trader and investor Ricardo Silva for endorsing TraderDashboards and providing a testimonial
+
 # Deployment
 
 ## GitHub Pages
