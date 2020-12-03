@@ -11,7 +11,7 @@ html, body{
     position: relative;
 }
 
-/******************************************* Colors ********************/
+/******************************************* Navbar Colors ********************/
 
 .colors-navbar{
     color: #bebdbd;
@@ -313,9 +313,9 @@ footer p {
 }
 /**** End of 3rd party code ****/
 
-/************************************************** Testimonial ************/
+/************************************************** Testimonial section ************/
 
-/** The below media queries are to solve the solution to the YouTube inframes massively
+/** The below media queries are to solve the solution to the YouTube iframes massively
     overlapping the content below ****/
 
 @media (min-width: 300px) {
@@ -633,7 +633,7 @@ footer p {
     height: 100%;
 }
 
-/* Sector-dash */
+/***************************** Sector-dash ************************************/
 
 /* Tech */
 #tradingview_43d59{
@@ -831,7 +831,7 @@ footer p {
     overflow: scroll;
 }
 
-/*************************************** Contact ************************/
+/*************************************** Contact page ************************/
 
 .contact-heading-container{
     padding-top: 6%;
@@ -919,7 +919,7 @@ footer p {
     width: 100%;
 }
 
-/*********************************** Subscribe page ************/
+/*********************************** Subscribe page ***********************/
 
 .subscribe-container-outer .row{
     margin-right: 0;
@@ -966,7 +966,7 @@ footer p {
     font-weight: 200;
     color: #fff;
     line-height: 3rem;
-    width: 100;
+    width: 100%;
 }
 
 .thankyou-text h2{
