@@ -373,16 +373,13 @@ This is one of the biggest lessons learnt during the project that I will carry f
         https://blog.h-educate.com/how-to-send-an-email-in-a-static-html-page-using-google-sheets-scripts/
         The code used is from the JS file and the relevant classes used in the HTML file 
         This process was orignally put together in this repo: https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server/blob/master/README.md 
-    - The below code was found on stackoverflow as a solution to get rid of the bootstrap blue on click of the navbar drop down menu:  
+    - The below code was found on stackoverflow as a solution to get rid of the bootstrap blue on click of the navbar drop down menu item:  
         https://stackoverflow.com/a/54484583/14461213
 
         .dropdown-item:active{
         background-color: #515253;
         }
 
-.dropdown-item:active{
-background-color: #515253;
-}
 - Content:
     - All content was written by the developer
     
