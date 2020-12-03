@@ -20,7 +20,7 @@ TraderDashboards provides an informational edge that can enhance a traders exist
 
 1. Pre-market multi-timeframe analysis of the major indexes to frame the market and create a bigger picture road map
 2. Digging deeper and identifying strong sectors in a strong market and weak sectors in a weak market
-3. Researching the technicals and fundamentals of specific stocks to potentially trade in line with the the above top down analysis
+3. Analysing specific stocks to potentially trade in line with the the above top down analysis
 4. Monitoring live market data: quickly being able to identify intraday sentiment, overall market direction, breaking news and economic events
 
 
@@ -111,6 +111,7 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 - Testimonial carousel near the bottom of home page
 - Call to action contact and subscribe buttons at the bottom of home (landing page)
 - Contact and Subscribe pages to have a fixed background image
+- Contact page to have Google maps iframe
 - Charting widgets embedded from 3rd party sources
 - Live news feed widget from 3rd party news aggregator
 - Live economic calendar widget from 3rd party
@@ -459,7 +460,7 @@ First create your new repo, then go to the old repo's (the one to be cloned) mai
 code tabe next to the big green Gitpod tab.  Copy the required url depending on if you want to connect through 
 HTTPS or SSH and then head over to Git Bash. Get into the new repo directory, type: git clone and then paste the
 url of the soon to be cloned repo and press enter. It is done.
- 
+
 # Technologies
 
 ## Languages
