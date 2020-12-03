@@ -275,7 +275,7 @@ Overall with the design, a focus during development is to maintain a clean and s
 - [X] Create home page videos:
     - [X] Introduction
     - [X] Platform Demo
-- [ ] Create YouTube account and upload videos
+- [X] Create YouTube account and upload videos
 - [X] Obtain 2x testimonials from traders and create content for carousel
 - [X] Identify Hero image and save
 - [X] Identify cantact page image and save
@@ -300,9 +300,9 @@ Overall with the design, a focus during development is to maintain a clean and s
     - [X] Add style classes
     - [X] Add background image to top section adding an opaque layer to contrast with heading text
     - [X] Add email/message form and style
-    - [ ] Validate HTML and CSS
-    - [ ] Confirm all hmtl and css code is clearly organised with comments
-    - [ ] Make sure all 3rd party code is labelled with comments and any credits complete
+    - [X] Validate HTML and CSS
+    - [X] Confirm all hmtl and css code is clearly organised with comments
+    - [X] Make sure all 3rd party code is labelled with comments and any credits complete
 - **Milestone:** Home & Contact page content and structure in place  
 
 ### Sprint 5 - Adding call-to-action functionality and element transitions
@@ -316,8 +316,8 @@ Overall with the design, a focus during development is to maintain a clean and s
 - [X] Add submit functionality to contact and subscribe forms keeping giving the user a success message and keeping them on the page
 - [X] Collect form data within Google sheets automatically producing lead contact list  
 - [ ] Validate HTML and CSS
-- [ ] Confirm all hmtl and css code is clearly organised with comments
-- [ ] Make sure all 3rd party code is labelled with comments and any credits complete 
+- [X] Confirm all hmtl and css code is clearly organised with comments
+- [X] Make sure all 3rd party code is labelled with comments and any credits complete 
 - **Milestone:** Website complete
 
 ## Bugs & Solutions:
@@ -346,12 +346,21 @@ This is one of the biggest lessons learnt during the project that I will carry f
 
 ##  Final HTML & CSS Testing
 - [ ] HTML code Tested 
-- [ ] CSS code Tested  
+- [X] CSS code Tested  
 
 ## Testing User Stories
 
 ### First Time Visitor Goals:
-    - fighjfg
+    - To understand what the website does and if they are interested within 10 seconds:
+        - The hero carousel at the top of the home page includes 3 sliders clearly stating what the website is all about
+        - Scrolling down the introduction section is clear with very short text leading to short videos
+    - To get access to the trading dashboards and see what all fuss is about quickly and with minimal clicks:
+        - Every page has a fixed top navbar with a consistent layout across pages.  Users can visit any page from the top nav bar
+    - To decide if TradeDashboards presents data in a way that provides value to their trading/investing operation and if they should bookmark a given dashboard:
+        - Users can either watch the videos or get straight into the dashboards.  They can resize the browser to fit their existing screen set up and even have full functionality on mobile for every dashboard.
+    - Does TraderDashboards allow the trader to develop the building blocks of their trading edge, do they feel using the tool increases their edge in the market:
+        - Yes the way the Index-Dash is presented promotes traders to first identify supply and demand in risk off assets, then risk assets and then on to compare the major indexes to complete the story
+        - The Intraday-Dash is presented to provide real-time snap shots of risk sentiment and     
 
 ### Returning Visitor Goals:
     - ksdkndn
