@@ -294,7 +294,7 @@ Overall with the design, a focus during development is to maintain a clean and s
     - [X] Add the structure to the carousel section and add testimonials
     - [X] Add text to subscribe section and add subscribe button link
     - [X] Add bottom section text and add contact button (leading to the contact page) 
-- [ ] Contact Page
+- [X] Contact Page
     - [X] Build Bootstrap grid layout for page
     - [X] Add classes to adjust for srceen size
     - [X] Add style classes
@@ -397,13 +397,13 @@ This is one of the biggest lessons learnt during the project that I will carry f
     
 ### Frequent User Goals:
 - For TraderDashboards to become a core part of a traders daily operational processes:
-    - Users that regularly utilise the dashboards will become intricately familiar with how these markets move in relation to each other and develop the ability the chunk the
-    the information from all the data points on the Intraday-Dash.  Over time this allows the trader/investor to develop a powerful edge to add to their existing strategy 
+    - Users that regularly utilise the dashboards will become intricately familiar with how these markets move in relation to each other and develop the ability to chunk the
+    information from all the data points on the Intraday-Dash.  Over time this allows the trader/investor to develop a powerful edge to add to their existing strategy 
 ### Frequent User example of how multiple dashboards can be displayed on one monitor and used at the same time:
 ![Email submission event](https://user-images.githubusercontent.com/73107656/101062405-85696280-3589-11eb-84eb-d730fb58abba.PNG)
 ## Device Testing
-- [ ] The website works on all devices
-
+- [X] The website works on all devices: Each page of the website has been proven on all Android and Apple devices as well as laptop and desktop screens.
+![Device testing](https://user-images.githubusercontent.com/73107656/101066449-55708e00-358e-11eb-9664-e46f3b1ce21b.PNG)
 ## Browser Testing
 - [ ] The website works on Chrome, Firefox, Edge & Safari
 
