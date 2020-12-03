@@ -126,7 +126,7 @@ The strategy styles will include a mix of trend and mean reversion plays across 
     - Leading down to the introduction section with text and embedded video
     - Leading on to section with 4 embedded videos each one a short presentation of each dashboard
     - Below that a testimonial carousel with a couple of rotating testimonials
-    - just before the footer a short text with a contact button taking the user to the contact page 
+    - Just before the footer a short text with a contact button taking the user to the contact page 
 - Intraday-Dash:
     - Tickers/mini charts showing the net change since previous close (Dollar index, Bitcoin, Gold, Brent, Ftse, Dax)
     - 5 minute mini charts showing real-time price action for (Dollar index, WTI oil, Gold, S&P, Russell, Nasdaq)
@@ -149,19 +149,19 @@ The strategy styles will include a mix of trend and mean reversion plays across 
         - Sector-Dash
         - Stock-Dash
     - Help Guide (link to live pdf)
-    - contact
+    - Contact
     - Subscribe
 - Nav bar (bottom):
     - Copyright and TradingView text 
 - Home:
     - Top nav bar taking the visitor directly to any other page and dashboard (opening in new tab)
     - Nav bar tabs to have subtle hover effects and clearly highlight the active page
-    - Hero section to house the subscribe pop up modal.  The button to transition in from the left once the page has loaded in order
-      to demand the visitors attention 
-    - The introduction section has a video, click to watch. The video will transition in as the visitor scrolls to the section 
-    - below that the four videos, click to watch
-    - the section below that has the carousel which can be clicked to scroll with the scroll buttons having a hover effect
-    - The footer has the drop down dashboard menu so visitors can go straight to the dashboard of choice
+    - Hero section  
+    - The introduction section has a video, click to watch. 
+    - Below that the demonstration video, click to watch
+    - The section below that has the testimonial carousel
+    - Then the call to action contact and subscribe section
+    - Then the footer 
 - Intraday-Dash:
     - The navbar and footer are the same as the home page and for all pages
     - The charts can be focused by zooming in and out by hovering over and using the scroll wheel
@@ -174,10 +174,13 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 - Stock-Dash:
     - Same as Index-Dash + Tickers can be changed
     - Product table can be manipulated to sort for different factors to identify stocks to analyse
-    - Yahoo finance can be used built into the page to further investigate a stock
 - Contact:
-    - From any page the visitor can click on the contact tab within the top nav bar 
-    - The visitor can either fill out the email form or schedule a call via the calendly iframe
+    - From any page the visitor can click on the contact tab within the top nav bar and go to the contact page
+    - Background image 
+- Subscribe:
+    - From any page the visitor can click on the subscribe tab within the top nav bar and be taken to the subscribe page
+    - Background image
+
 
 
 ## Wireframes
@@ -438,7 +441,7 @@ This is one of the biggest lessons learnt during the project that I will carry f
     Also advice in using the dev tools to dial in on elements that are not acting as expected to identify the cause and make adjustments.  This really helped when
     customising Bootstrap.
     - My friends in the trading and investing industry for sharing their insights during the planning phase and then giving me frank and honest feedback during development     
-    - My fellow trader and investor Ricardo Silva for endorsing TraderDashboards and providing a testimonial
+    - My friend and fellow trader and investor **Ricardo Silva** for endorsing TraderDashboards and providing a testimonial
 
 # Deployment
 
@@ -458,7 +461,7 @@ makes a copy to your own GitHub account.
 ## Local Clone
 To copy your own repo to maybe use it in a new project:
 First create your new repo, then go to the old repo's (the one to be cloned) main page and hit the
-code tabe next to the big green Gitpod tab.  Copy the required url depending on if you want to connect through 
+code tab next to the big green Gitpod tab.  Copy the required url depending on if you want to connect through 
 HTTPS or SSH and then head over to Git Bash. Get into the new repo directory, type: git clone and then paste the
 url of the soon to be cloned repo and press enter. It is done.
 
