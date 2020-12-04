@@ -418,7 +418,14 @@ This is one of the biggest lessons learnt during the project that I will carry f
 ![Email submission event](https://user-images.githubusercontent.com/73107656/101062405-85696280-3589-11eb-84eb-d730fb58abba.PNG)
 ## Device Testing
 - [X] The website works on all devices: Each page of the website has been proven on Android and IOS devices as well as laptop and desktop screens.
+
+
 ![Device testing](https://user-images.githubusercontent.com/73107656/101066449-55708e00-358e-11eb-9664-e46f3b1ce21b.PNG)
+
+
+![dashboard multi device](https://user-images.githubusercontent.com/73107656/101152765-716e4100-361b-11eb-9447-fa1ae19618e8.PNG)
+
+
 ## Browser Testing
 - [X] The website works on Chrome, Firefox, Edge & Safari
 
