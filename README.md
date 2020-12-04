@@ -319,6 +319,13 @@ Overall with the design, a focus during development is to maintain a clean and s
 - [X] Make sure all 3rd party code is labelled with comments and any credits complete 
 - **Milestone:** Website complete
 
+![Landing page](https://user-images.githubusercontent.com/73107656/101151215-3cf98580-3619-11eb-89d7-5bb346129b2c.PNG)
+
+
+![Final intraday-dash](https://user-images.githubusercontent.com/73107656/101151512-a9748480-3619-11eb-9616-fb8c8a786b06.PNG)
+
+
+
 ## Bugs & Solutions:
 - **Bug:** The justify-content-center bootstrap class is not centering the navbar ul
     - [X] **Solution** I ended up setting the navbar float: none and pos relative, 
