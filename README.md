@@ -52,8 +52,8 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 
 - Prospective clients:
     - To custom TraderDashboards to fit their analysis style and methods
-    - To work with the developer to automate their trading strategy, create trade alerts, maybe connect to their broker account and execute, maybe even build a desktop app
-    - To create a proprietary analysis tool pulling in custom data and presenting it via a custom built a UI  
+    - To work with the developer to automate their trading strategy, create trade alerts, maybe connect to their broker account and execute, maybe even build a desktop or web app
+    - To create a proprietary analysis tool pulling in custom data and presenting it via a custom built UI  
 
 - Potential employers:
     - Brokers, trading and investment firms, trading platforms, charting package providers and financial news outlets would value having a developer on their team that also has a high level of experience in there industry and is able to
@@ -124,56 +124,58 @@ The strategy styles will include a mix of trend and mean reversion plays across 
 - Home:
     - Hero Image with headline attention grabber
     - Leading down to the introduction section with text and embedded video
-    - Leading on to section with 4 embedded videos each one a short presentation of each dashboard
+    - Leading on to demo video
     - Below that a testimonial carousel with a couple of rotating testimonials
-    - Just before the footer a short text with a contact button taking the user to the contact page 
+    - After the carousel the call to action buttons for the contact and subscribe pages
+    - Above the footer the industry logos
+    - Directly beneath is the social media links then the footer 
 - Intraday-Dash:
-    - Tickers/mini charts showing the net change since previous close (Dollar index, Bitcoin, Gold, Brent, Ftse, Dax)
-    - 5 minute mini charts showing real-time price action for (Dollar index, WTI oil, Gold, S&P, Russell, Nasdaq)
+    - Top 3 mini charts showing the Dollar index and risk off assets Gold and Bitcoin
+    - Middle 3 mini charts showing risk assets Crude oil, FTSE 100 and DAX
+    - Bottom 3 mini charts showing US indexes Russell 200, S&P 500 and Nasdaq 100
     - Live stream economic calendar showing US, UK and European price sentsitive releases
     - Aggregated live news feed showing price sensitive events
 - Index-Dash:
-    - Daily end of day charts for Brent oil, Gold, S&P, Russell, Dow, Nasdaq including 50 and 20 day simple moving average indicators
-    - 15 minute derivative chart for each of the above showing 24 hour data including the equivalent 5 day moving average and the 20 period moving average 
+    - Daily end of day charts for Brent oil, Gold, S&P, Russell, Dow, Nasdaq 
+    - 15 minute derivative chart for each of the above showing 24 hour data 
 - Sector-Dash:
-    - The same chart set up as the Index-Dash but using the US sector ETF products
+    - A daily chart for each of the US sector ETF's (using the SPDR ETF's as these are the most traded and products)
 - Stock-Dash:
     - Daily and 15 minute chart with fully accissible features so users can change the product and undertake stock specific analysis 
 
 ## Interactive Elements
 - Main nav bar (top):
+    - Logo and Title on the top left of each page to be link for home page
     - Home (landing page)
     - Dashboards drop down menu:
         - Intraday-Dash
         - Index-Dash
         - Sector-Dash
         - Stock-Dash
-    - Help Guide (link to live pdf)
     - Contact
     - Subscribe
+    - Help Guide (link to live pdf)
 - Nav bar (bottom):
-    - Copyright and TradingView text 
+    - Copyright and Powered By text 
 - Home:
     - Top nav bar taking the visitor directly to any other page and dashboard (opening in new tab)
     - Nav bar tabs to have subtle hover effects and clearly highlight the active page
     - Hero section  
     - The introduction section has a video, click to watch. 
     - Below that the demonstration video, click to watch
-    - The section below that has the testimonial carousel
-    - Then the call to action contact and subscribe section
-    - Then the footer 
+    - The section below that has the rotating testimonial carousel
+    - Then the call to action contact and subscribe section 
 - Intraday-Dash:
     - The navbar and footer are the same as the home page and for all pages
     - The charts can be focused by zooming in and out by hovering over and using the scroll wheel
     - The economic calendar can be viewed per day or week and scrolling to view more items
-    - The news feed can be targeted by clicking on the different tabs (stocks, economy etc) 
+    - The news feed can be targeted by clicking on the different tabs (stocks, economy etc) Users can click on the article to open full article in new tab 
 - Index-Dash:
     - Charts can be focused, indicators can be used, levels and trend lines can be used
 - Sector-Dash:
     - Same as Index-Dash
 - Stock-Dash:
-    - Same as Index-Dash + Tickers can be changed
-    - Product table can be manipulated to sort for different factors to identify stocks to analyse
+    - Same as Index-Dash + Tickers can be changed. This means that users can analyse any product they choose and undertake multiple time-frame analsysis quickly and easily
 - Contact:
     - From any page the visitor can click on the contact tab within the top nav bar and go to the contact page
     - Background image 
@@ -199,13 +201,13 @@ The strategy styles will include a mix of trend and mean reversion plays across 
     made with a focus towards looking simple, subtle and clean to create a balance.     
 
 - Typography
-    - Again depending on which provider is mostly used for the 3rd party widgets the website typography will be set to best match this.
+    - The font used by the 3rd party widgets is a paid for high value font, however Roboto provides a similar look and feel and works well with the subjbect and styling
 
 - Images
-    - Due to the nature of the website there is not much real-estate for many images however a choice hero image will be used on the home page and potentially a further feature image on the contact page.
-      The images need to be in keeping so as to contrast nicely with the existing colour pallete.
+    - The landing page to have a choice image relevant to the site content within the hero carousel. To be simple and set the stage for the main heading text overlay
+    - Both the Contact and Subscribe page to have a similar but different background image that is fixed allowing the heading and form content to scroll over the top. Again simple but impactful 
 
-Overall with the design, a focus during development is to maintain a clean and subtle look as the website is jam packed with user features that could become too busy very quickly.
+Overall with the design, a focus during development is to maintain a clean and subtle look as the website is jam packed with user features that could become too busy very quickly
 
 # Development Stage
 
@@ -226,10 +228,7 @@ Overall with the design, a focus during development is to maintain a clean and s
     - [X] Style the nav bar so it works well for tablets and desktops
     - [X] Add the burger menu functionality for mobile devices
     - [X] Add and refine hover effects and active tab styling
-- [X] Adjust the top nav bar and create the footer
-    - Remove Contact, Guide, Subscribe
-    - move Dashboards to the right
-    - Add Copyright to the center
+- [X] Create the footer including Copyright and Powered By
 - [X] Validate HMTL and CSS
 - [X] Add template to all pages
 - [X] Adjust active tab and file name for each page
@@ -261,14 +260,14 @@ Overall with the design, a focus during development is to maintain a clean and s
 - [X] Intraday-Dash
     - [X] Build the Bootstrap grid system for the page adding classes for screen sizes and for styling
     - [X] Add basic styling
-    - [X] Add the Ticker widgets and test how they adjust for screen sizes, making adjustments as needed
-    - [X] Add the chart widgets refining styling so they are cleanly spaced
-    - [X] Add the economic calendar refining the grid size to best match the widget also setting the display to none for mobile devices
+    - [X] Add the Ticker/mini chart widgets and test how they adjust for screen sizes, making adjustments as needed
+    - [X] Add the 2nd and 3rd row mini chart widgets refining styling so they are cleanly spaced
+    - [X] Add the economic calendar refining the grid size to best match the widget also setting the display to none for mobile devices (If usable will display on mobile)
     - [X] Add the news feed widget
     - [X] Make any final styling refinements
-    - [X] Validate HTML and CSS
-    - [X] Confirm all hmtl and css code is clearly organised with comments
-    - [X] Make sure all 3rd party code is labelled with comments and any credits complete  
+- [X] Validate HTML and CSS
+- [X] Confirm all hmtl and css code is clearly organised with comments
+- [X] Make sure all 3rd party code is labelled with comments and any credits complete  
 - **Milestone 2:** Trading dashboards complete and working correctly, the main purpose of the site for users has been achieved  
 
 ### Sprint 3 - Create content for Home & Contact page
@@ -277,9 +276,9 @@ Overall with the design, a focus during development is to maintain a clean and s
     - [X] Introduction
     - [X] Platform Demo
 - [X] Create YouTube account and upload videos
-- [X] Obtain 2x testimonials from traders and create content for carousel
+- [X] Obtain testimonial from trader and create content for carousel 
 - [X] Identify Hero image and save
-- [X] Identify cantact page image and save
+- [X] Identify Cantact & Subscribe page image and save
 - **Milestone:** All content for home and contact page now prepared for website
 
 ### Sprint 4 - Complete Home and Contact page  
@@ -288,34 +287,33 @@ Overall with the design, a focus during development is to maintain a clean and s
     - [X] Add classes to adjust layout for each screen size
     - [X] Add classes to make provisions for core styling
     - [X] Add basic styling to stylesheet
-    - [X] Add the hero image, styling it to fit, adding css parallax effect and potentially adding an opaque layer
-    - [X] Add Hero image heading, sub heading and style including positoning (allow space for subscribe button to come)
+    - [X] Add the hero image, styling it to fit the carousel, edit and add opaque layers for each slide
+    - [X] Add Hero heading to each slide
     - [X] Add text to introduction section, add introduction video
     - [X] Add the two videos to the intro section and refine style if needed
     - [X] Add the structure to the carousel section and add testimonials
     - [X] Add text to subscribe section and add subscribe button link
-    - [X] Add bottom section text and add contact button (leading to the contact page) 
-- [X] Contact Page
+    - [X] Add text and add contact button (leading to the contact page) 
+- [X] Contact & Subscribe Page
     - [X] Build Bootstrap grid layout for page
     - [X] Add classes to adjust for srceen size
     - [X] Add style classes
     - [X] Add background image to top section adding an opaque layer to contrast with heading text
     - [X] Add email/message form and style
     - [X] Validate HTML and CSS
+    - [X] Copy Contact page to Subscribe page and alter to produce subscribe form and heading text
     - [X] Confirm all hmtl and css code is clearly organised with comments
     - [X] Make sure all 3rd party code is labelled with comments and any credits complete
 - **Milestone:** Home & Contact page content and structure in place  
 
 ### Sprint 5 - Adding call-to-action functionality and sweeping up all remaining tasks
-- [X] Add the email form on the contact page
+- [X] Adjust the email and subscribe forms to include the relevant classes in order to fit with Google Apps Mail and also the form-submission-handler.js file to add functionality to the forms
 - [X] Add Google maps to contact page
 - [X] Move User Guide to end of nav bar on each page
-- [X] Make separate subscribe page in line with contact page and make home page subscribe button link
-- [X] Add heading section on contact page and add media querries to adjust for sizing
-- [X] Make readme title a link, add multi device image at top
-- [X] Refine first hero image in slider to contrast more effectively, colour match red hero image with theme, add industry logos to home page, add real testimonial
-- [X] Add submit functionality to contact and subscribe forms keeping giving the user a success message and keeping them on the page
-- [X] Collect form data within Google sheets automatically producing lead contact list  
+- [X] Alter heading section on contact page and add media querries to adjust for sizing
+- [X] Readme - Move live link and user guide link to below Title and add multi device image at top
+- [X] Refine first hero image in slider to contrast more effectively, colour match red hero image with theme, add industry logos to home page, add real testimonial  
+- [X] Test email and subscribe functionality and success message as well as Google sheets contact autosave
 - [X] Validate HTML and CSS
 - [X] Confirm all hmtl and css code is clearly organised with comments
 - [X] Make sure all 3rd party code is labelled with comments and any credits complete 
@@ -336,9 +334,10 @@ Overall with the design, a focus during development is to maintain a clean and s
     - [X] **Solution** I ended up using media querries and using large amounts of margin-top for the below content.
     This doesnt feel like it should be the best solution but this has allowed me to manage the overlapping issue instead of
     actually fixing it. The home screen is fully responsive now.
-- **Bug:** Home page - the economic calendar iframe is contained within div's but will only scroll on the Y axis even when it is contained within a div with overflow:scroll
+### Unresolved Bugs
+- **Bug:** Intraday-Dash - the economic calendar iframe is contained within div's but will only scroll on the Y axis even when it is contained within a div with overflow:scroll
     - [] **Solution** Unresolved, but very usable even on mobile.  Date, time and event are all visible.
-- **Bug:** README.md links to external url's even with target="_blank still open within the same tab (Have tried both mark down and mark up methods)
+- **Bug:** README.md links to external url's even with target="_blank" still opens within the same tab (Have tried both mark down and mark up methods)
     - [] **Solution** Unresolved, all links are now in markup using <a> tags which include target="_blank".  Visitors will for now right click 'open in new tab' Not great but not a show stopper 
 
 **Note:** Being my first project I began the project unknowingly using a mix of methods to position content, it was like putting pieces from two different puzzles together (containers and items). However as I struggled through I slowly began to understand 
