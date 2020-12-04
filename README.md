@@ -340,8 +340,8 @@ Overall with the design, a focus during development is to maintain a clean and s
 - **Bug:** README.md links to external url's even with target="_blank" still opens within the same tab (Have tried both mark down and mark up methods)
     - [] **Solution** Unresolved, all links are now in markup using <a> tags which include target="_blank".  Visitors will for now right click 'open in new tab' Not great but not a show stopper 
 - **Bug** Intarday-Dash line 317: The file passes the validator check but the closing comment of a 3rd party widget is not showing the normal green colour that comments do in my IDE.
-    I cannot figure out what is causing this.  The validator sees the comment as a comment and the code runs perfect in the browser I have irregular colours around this line in the code within
-    the 3rd party script tags which I feel may be causing this.  Something I will revisit as I learn more about JS.
+    I cannot figure out what is causing this.  The validator sees the comment as a comment and the code runs perfect in the browser. I have irregular colours within the
+    3rd party script tags on the line above which I feel may be causing this.  Something I will revisit as I learn more about JS.
 
 
 **Note:** Being my first project I began the project unknowingly using a mix of methods to position content, it was like putting pieces from two different puzzles together (containers and items). However as I struggled through I slowly began to understand 
